@@ -1,0 +1,64 @@
+name: Auto-update NJDOE data
+
+on:
+  schedule:
+    - cron: "0 8 1 * *"   # 08:00 UTC on the 1st of every month
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Re-download and re-parse every year (2014-15 onward)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: njdoe-data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120   # the 2024-25 school workbook alone is ~350 MB
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run NJDOE ETL pipeline
+        run: |
+          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
+            python scripts/update_njdoe_data.py --backfill
+          else
+            python scripts/update_njdoe_data.py
+          fi
+
+      - name: Check for data changes
+        id: diff
+        run: |
+          if git diff --quiet -- public/data/brrsdData.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes to brrsdData.json."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git diff --stat -- public/data data
+          fi
+
+      - name: Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data data/extracts
+          git commit -m "data: refresh NJDOE School Performance Reports ($(date -u +%Y-%m-%d))"
+          git push

@@ -1,0 +1,833 @@
+year,era,districtCode,districtName,schoolCode,schoolName,subject,grade,group,msgp,source,stateMsgp
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,All Students,67.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,All Students,61.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,All Students,55.5,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,All Students,61.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,All Students,39.5,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,All Students,67.5,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,All Students,73.5,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,All Students,75.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,All Students,46.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,All Students,58.5,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,All Students,64.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,All Students,80.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,All Students,56.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,All Students,61.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,All Students,51.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,All Students,54.5,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,All,All Students,48.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,All,All Students,67.0,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,All Students,70.5,2014-15:SGP,
+2014-15,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,All Students,77.5,2014-15:SGP,
+2015-16,PARCC,35-0350,Bernards Township,,,ELA,All,All Students,48.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0350,Bernards Township,,,Math,All,All Students,50.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,All Students,51.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,All Students,46.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,All Students,56.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,All Students,51.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,All Students,58.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,All Students,42.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,All Students,35.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,All Students,32.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,All Students,73.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,All Students,48.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,All Students,43.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,All Students,42.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,All Students,57.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,All Students,64.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,All Students,50.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,All Students,46.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,All Students,47.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,All Students,30.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,All,All Students,53.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,All,All Students,51.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,All Students,31.0,2015-16:SGP,50.0
+2015-16,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,All Students,35.0,2015-16:SGP,50.0
+2015-16,PARCC,35-2170,Hillsborough Township,,,ELA,All,All Students,50.0,2015-16:SGP,50.0
+2015-16,PARCC,35-2170,Hillsborough Township,,,Math,All,All Students,58.0,2015-16:SGP,50.0
+2016-17,PARCC,35-0350,Bernards Township,,,ELA,All,All Students,47.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0350,Bernards Township,,,ELA,All,Economically Disadvantaged,53.0,2016-17:StudentGrowth,47.0
+2016-17,PARCC,35-0350,Bernards Township,,,ELA,All,Students with Disabilities,38.5,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0350,Bernards Township,,,ELA,Grade 4,All Students,54.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0350,Bernards Township,,,ELA,Grade 5,All Students,60.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0350,Bernards Township,,,ELA,Grade 6,All Students,40.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0350,Bernards Township,,,ELA,Grade 7,All Students,49.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0350,Bernards Township,,,ELA,Grade 8,All Students,34.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0350,Bernards Township,,,Math,All,All Students,53.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0350,Bernards Township,,,Math,All,Economically Disadvantaged,48.0,2016-17:StudentGrowth,46.0
+2016-17,PARCC,35-0350,Bernards Township,,,Math,All,Students with Disabilities,40.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0350,Bernards Township,,,Math,Grade 4,All Students,60.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0350,Bernards Township,,,Math,Grade 5,All Students,55.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0350,Bernards Township,,,Math,Grade 6,All Students,44.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0350,Bernards Township,,,Math,Grade 7,All Students,53.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,All Students,55.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Economically Disadvantaged,52.0,2016-17:StudentGrowth,47.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Students with Disabilities,44.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 4,All Students,48.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 5,All Students,47.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 6,All Students,59.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 7,All Students,62.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 8,All Students,56.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,All Students,50.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,Economically Disadvantaged,46.0,2016-17:StudentGrowth,46.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,Students with Disabilities,43.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 4,All Students,55.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 5,All Students,39.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 6,All Students,56.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 7,All Students,52.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,All Students,59.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Economically Disadvantaged,57.0,2016-17:StudentGrowth,47.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Students with Disabilities,46.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 7,All Students,62.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 8,All Students,56.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,All Students,52.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Economically Disadvantaged,59.0,2016-17:StudentGrowth,46.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Students with Disabilities,42.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,Grade 7,All Students,52.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,All Students,40.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Economically Disadvantaged,65.0,2016-17:StudentGrowth,47.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Students with Disabilities,14.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,Grade 4,All Students,39.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,All Students,58.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Economically Disadvantaged,67.0,2016-17:StudentGrowth,46.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Students with Disabilities,61.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,Grade 4,All Students,60.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,All Students,26.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,Grade 4,All Students,26.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,All Students,35.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,Grade 4,All Students,36.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,All Students,59.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,Students with Disabilities,55.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,Grade 4,All Students,62.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,All Students,60.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,Students with Disabilities,68.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,Grade 4,All Students,62.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,All Students,51.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Economically Disadvantaged,45.0,2016-17:StudentGrowth,47.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Students with Disabilities,43.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 5,All Students,48.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 6,All Students,55.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,All Students,44.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Economically Disadvantaged,41.5,2016-17:StudentGrowth,46.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Students with Disabilities,32.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 5,All Students,37.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 6,All Students,56.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,All Students,56.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,Students with Disabilities,24.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,Grade 4,All Students,55.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,All Students,55.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,Students with Disabilities,42.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,Grade 4,All Students,55.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,All Students,55.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Economically Disadvantaged,49.0,2016-17:StudentGrowth,47.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Students with Disabilities,44.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 5,All Students,46.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 6,All Students,62.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,All Students,49.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Economically Disadvantaged,46.0,2016-17:StudentGrowth,46.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Students with Disabilities,53.5,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 5,All Students,45.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 6,All Students,57.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,All Students,40.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Economically Disadvantaged,27.0,2016-17:StudentGrowth,47.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Students with Disabilities,29.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,Grade 4,All Students,37.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,All Students,44.5,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Economically Disadvantaged,26.5,2016-17:StudentGrowth,46.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Students with Disabilities,36.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,Grade 4,All Students,44.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,All,All Students,52.5,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,Grade 4,All Students,52.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,All,All Students,61.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,Grade 4,All Students,59.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,All Students,56.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,Students with Disabilities,55.5,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,Grade 4,All Students,56.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,All Students,65.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,Students with Disabilities,37.5,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,Grade 4,All Students,65.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-2170,Hillsborough Township,,,ELA,All,All Students,57.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-2170,Hillsborough Township,,,ELA,All,Economically Disadvantaged,46.5,2016-17:StudentGrowth,47.0
+2016-17,PARCC,35-2170,Hillsborough Township,,,ELA,All,Students with Disabilities,46.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 4,All Students,50.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 5,All Students,47.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 6,All Students,50.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 7,All Students,71.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 8,All Students,67.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-2170,Hillsborough Township,,,Math,All,All Students,59.5,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-2170,Hillsborough Township,,,Math,All,Economically Disadvantaged,51.0,2016-17:StudentGrowth,46.0
+2016-17,PARCC,35-2170,Hillsborough Township,,,Math,All,Students with Disabilities,55.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-2170,Hillsborough Township,,,Math,Grade 4,All Students,66.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-2170,Hillsborough Township,,,Math,Grade 5,All Students,58.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-2170,Hillsborough Township,,,Math,Grade 6,All Students,48.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-2170,Hillsborough Township,,,Math,Grade 7,All Students,68.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-3320,Montgomery Township,,,ELA,All,All Students,54.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-3320,Montgomery Township,,,ELA,All,Economically Disadvantaged,46.0,2016-17:StudentGrowth,47.0
+2016-17,PARCC,35-3320,Montgomery Township,,,ELA,All,Students with Disabilities,41.0,2016-17:StudentGrowth,41.0
+2016-17,PARCC,35-3320,Montgomery Township,,,ELA,Grade 4,All Students,63.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-3320,Montgomery Township,,,ELA,Grade 5,All Students,69.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-3320,Montgomery Township,,,ELA,Grade 6,All Students,53.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-3320,Montgomery Township,,,ELA,Grade 7,All Students,42.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-3320,Montgomery Township,,,ELA,Grade 8,All Students,50.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-3320,Montgomery Township,,,Math,All,All Students,56.0,2016-17:StudentGrowth,50.0
+2016-17,PARCC,35-3320,Montgomery Township,,,Math,All,Economically Disadvantaged,54.5,2016-17:StudentGrowth,46.0
+2016-17,PARCC,35-3320,Montgomery Township,,,Math,All,Students with Disabilities,56.0,2016-17:StudentGrowth,43.0
+2016-17,PARCC,35-3320,Montgomery Township,,,Math,Grade 4,All Students,62.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-3320,Montgomery Township,,,Math,Grade 5,All Students,57.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-3320,Montgomery Township,,,Math,Grade 6,All Students,54.0,2016-17:StudentGrowthByGrade,
+2016-17,PARCC,35-3320,Montgomery Township,,,Math,Grade 7,All Students,50.0,2016-17:StudentGrowthByGrade,
+2017-18,PARCC,35-0350,Bernards Township,,,ELA,All,All Students,48.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0350,Bernards Township,,,ELA,All,Economically Disadvantaged,49.5,2017-18:StudentGrowth,48.0
+2017-18,PARCC,35-0350,Bernards Township,,,ELA,All,Students with Disabilities,39.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0350,Bernards Township,,,ELA,Grade 4,All Students,60.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0350,Bernards Township,,,ELA,Grade 5,All Students,61.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0350,Bernards Township,,,ELA,Grade 6,All Students,50.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0350,Bernards Township,,,ELA,Grade 7,All Students,33.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0350,Bernards Township,,,ELA,Grade 8,All Students,36.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0350,Bernards Township,,,Math,All,All Students,54.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0350,Bernards Township,,,Math,All,Economically Disadvantaged,52.0,2017-18:StudentGrowth,47.0
+2017-18,PARCC,35-0350,Bernards Township,,,Math,All,Students with Disabilities,48.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0350,Bernards Township,,,Math,Grade 4,All Students,65.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0350,Bernards Township,,,Math,Grade 5,All Students,56.5,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0350,Bernards Township,,,Math,Grade 6,All Students,51.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0350,Bernards Township,,,Math,Grade 7,All Students,36.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,All Students,62.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Economically Disadvantaged,58.0,2017-18:StudentGrowth,48.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Students with Disabilities,51.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 4,All Students,66.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 5,All Students,60.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 6,All Students,61.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 7,All Students,60.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 8,All Students,63.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,All Students,54.5,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,Economically Disadvantaged,52.0,2017-18:StudentGrowth,47.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,Students with Disabilities,48.5,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 4,All Students,61.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 5,All Students,47.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 6,All Students,58.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 7,All Students,55.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,All Students,61.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Economically Disadvantaged,61.5,2017-18:StudentGrowth,48.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Students with Disabilities,53.5,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 7,All Students,60.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 8,All Students,63.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,All Students,55.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Economically Disadvantaged,55.0,2017-18:StudentGrowth,47.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Students with Disabilities,48.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,Grade 7,All Students,55.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,All Students,72.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Economically Disadvantaged,52.0,2017-18:StudentGrowth,48.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Students with Disabilities,86.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,Grade 4,All Students,71.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,All Students,63.5,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Economically Disadvantaged,54.0,2017-18:StudentGrowth,47.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Students with Disabilities,59.5,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,Grade 4,All Students,63.5,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,All Students,48.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,Students with Disabilities,40.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,Grade 4,All Students,48.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,All Students,52.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,Students with Disabilities,60.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,Grade 4,All Students,52.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,All Students,80.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,Students with Disabilities,68.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,Grade 4,All Students,80.5,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,All Students,70.5,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,Students with Disabilities,88.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,Grade 4,All Students,71.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,All Students,55.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Economically Disadvantaged,53.0,2017-18:StudentGrowth,48.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Students with Disabilities,41.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 5,All Students,57.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 6,All Students,54.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,All Students,51.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Economically Disadvantaged,56.0,2017-18:StudentGrowth,47.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Students with Disabilities,47.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 5,All Students,46.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 6,All Students,60.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,All Students,67.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,Students with Disabilities,51.5,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,Grade 4,All Students,67.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,All Students,69.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,Students with Disabilities,42.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,Grade 4,All Students,69.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,All Students,67.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Economically Disadvantaged,57.5,2017-18:StudentGrowth,48.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Students with Disabilities,58.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 5,All Students,62.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 6,All Students,70.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,All Students,52.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Economically Disadvantaged,44.0,2017-18:StudentGrowth,47.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Students with Disabilities,48.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 5,All Students,47.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 6,All Students,57.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,All Students,61.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Economically Disadvantaged,62.0,2017-18:StudentGrowth,48.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Students with Disabilities,57.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,Grade 4,All Students,60.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,All Students,51.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Economically Disadvantaged,39.5,2017-18:StudentGrowth,47.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Students with Disabilities,41.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,Grade 4,All Students,49.5,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,All,All Students,75.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,Grade 4,All Students,75.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,All,All Students,59.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,Grade 4,All Students,59.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,All Students,45.5,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,Students with Disabilities,26.5,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,Grade 4,All Students,46.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,All Students,61.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,Students with Disabilities,53.5,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,Grade 4,All Students,62.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-2170,Hillsborough Township,,,ELA,All,All Students,49.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-2170,Hillsborough Township,,,ELA,All,Economically Disadvantaged,42.0,2017-18:StudentGrowth,48.0
+2017-18,PARCC,35-2170,Hillsborough Township,,,ELA,All,Students with Disabilities,40.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 4,All Students,58.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 5,All Students,29.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 6,All Students,49.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 7,All Students,50.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 8,All Students,58.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-2170,Hillsborough Township,,,Math,All,All Students,56.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-2170,Hillsborough Township,,,Math,All,Economically Disadvantaged,45.0,2017-18:StudentGrowth,47.0
+2017-18,PARCC,35-2170,Hillsborough Township,,,Math,All,Students with Disabilities,50.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-2170,Hillsborough Township,,,Math,Grade 4,All Students,67.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-2170,Hillsborough Township,,,Math,Grade 5,All Students,55.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-2170,Hillsborough Township,,,Math,Grade 6,All Students,51.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-2170,Hillsborough Township,,,Math,Grade 7,All Students,51.5,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-3320,Montgomery Township,,,ELA,All,All Students,53.5,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-3320,Montgomery Township,,,ELA,All,Economically Disadvantaged,50.0,2017-18:StudentGrowth,48.0
+2017-18,PARCC,35-3320,Montgomery Township,,,ELA,All,Students with Disabilities,40.0,2017-18:StudentGrowth,41.0
+2017-18,PARCC,35-3320,Montgomery Township,,,ELA,Grade 4,All Students,55.5,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-3320,Montgomery Township,,,ELA,Grade 5,All Students,55.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-3320,Montgomery Township,,,ELA,Grade 6,All Students,50.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-3320,Montgomery Township,,,ELA,Grade 7,All Students,52.5,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-3320,Montgomery Township,,,ELA,Grade 8,All Students,55.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-3320,Montgomery Township,,,Math,All,All Students,53.0,2017-18:StudentGrowth,50.0
+2017-18,PARCC,35-3320,Montgomery Township,,,Math,All,Economically Disadvantaged,38.0,2017-18:StudentGrowth,47.0
+2017-18,PARCC,35-3320,Montgomery Township,,,Math,All,Students with Disabilities,43.0,2017-18:StudentGrowth,43.0
+2017-18,PARCC,35-3320,Montgomery Township,,,Math,Grade 4,All Students,53.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-3320,Montgomery Township,,,Math,Grade 5,All Students,55.0,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-3320,Montgomery Township,,,Math,Grade 6,All Students,56.5,2017-18:StudentGrowthByGrade,
+2017-18,PARCC,35-3320,Montgomery Township,,,Math,Grade 7,All Students,46.0,2017-18:StudentGrowthByGrade,
+2018-19,PARCC,35-0350,Bernards Township,,,ELA,All,All Students,56.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0350,Bernards Township,,,ELA,All,Economically Disadvantaged,62.0,2018-19:StudentGrowth,48.0
+2018-19,PARCC,35-0350,Bernards Township,,,ELA,All,Students with Disabilities,46.5,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0350,Bernards Township,,,ELA,Grade 4,All Students,53.5,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0350,Bernards Township,,,ELA,Grade 5,All Students,62.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0350,Bernards Township,,,ELA,Grade 6,All Students,49.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0350,Bernards Township,,,ELA,Grade 7,All Students,62.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0350,Bernards Township,,,ELA,Grade 8,All Students,52.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0350,Bernards Township,,,Math,All,All Students,61.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0350,Bernards Township,,,Math,All,Economically Disadvantaged,70.0,2018-19:StudentGrowth,46.0
+2018-19,PARCC,35-0350,Bernards Township,,,Math,All,Students with Disabilities,59.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0350,Bernards Township,,,Math,Grade 4,All Students,64.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0350,Bernards Township,,,Math,Grade 5,All Students,68.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0350,Bernards Township,,,Math,Grade 6,All Students,57.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0350,Bernards Township,,,Math,Grade 7,All Students,53.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,All Students,56.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Economically Disadvantaged,47.0,2018-19:StudentGrowth,48.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Students with Disabilities,50.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 4,All Students,53.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 5,All Students,59.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 6,All Students,54.5,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 7,All Students,56.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 8,All Students,60.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,All Students,49.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,Economically Disadvantaged,41.5,2018-19:StudentGrowth,46.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,All,Students with Disabilities,42.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 4,All Students,57.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 5,All Students,43.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 6,All Students,47.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 7,All Students,48.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,All Students,58.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Economically Disadvantaged,47.5,2018-19:StudentGrowth,48.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Students with Disabilities,56.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 7,All Students,56.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 8,All Students,60.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,All Students,48.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Economically Disadvantaged,39.0,2018-19:StudentGrowth,46.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Students with Disabilities,37.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,Grade 7,All Students,48.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,All Students,49.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Economically Disadvantaged,41.0,2018-19:StudentGrowth,48.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Students with Disabilities,49.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,Grade 4,All Students,49.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,All Students,57.5,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Economically Disadvantaged,66.0,2018-19:StudentGrowth,46.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Students with Disabilities,71.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,Grade 4,All Students,59.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,All Students,70.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,Grade 4,All Students,70.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,All Students,66.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,Grade 4,All Students,66.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,All Students,45.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,Students with Disabilities,29.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,Grade 4,All Students,45.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,All Students,65.5,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,Students with Disabilities,69.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,Grade 4,All Students,65.5,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,All Students,52.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Economically Disadvantaged,58.0,2018-19:StudentGrowth,48.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Students with Disabilities,50.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 5,All Students,57.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 6,All Students,48.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,All Students,46.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Economically Disadvantaged,46.0,2018-19:StudentGrowth,46.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Students with Disabilities,45.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 5,All Students,44.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 6,All Students,48.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,All Students,54.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,Students with Disabilities,49.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,Grade 4,All Students,54.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,All Students,58.5,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,Students with Disabilities,55.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,Grade 4,All Students,58.5,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,All Students,63.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Economically Disadvantaged,45.0,2018-19:StudentGrowth,48.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Students with Disabilities,42.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 5,All Students,63.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 6,All Students,64.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,All Students,44.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Economically Disadvantaged,36.0,2018-19:StudentGrowth,46.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Students with Disabilities,38.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 5,All Students,43.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 6,All Students,46.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,All Students,49.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Economically Disadvantaged,41.0,2018-19:StudentGrowth,48.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Students with Disabilities,45.5,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,Grade 4,All Students,49.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,All Students,44.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Economically Disadvantaged,38.0,2018-19:StudentGrowth,46.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Students with Disabilities,36.5,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,Grade 4,All Students,43.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,All,All Students,70.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,Grade 4,All Students,71.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,All,All Students,60.5,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,Grade 4,All Students,59.5,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,All Students,53.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,Students with Disabilities,51.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,Grade 4,All Students,53.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,All Students,51.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,Students with Disabilities,20.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,Grade 4,All Students,51.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-2170,Hillsborough Township,,,ELA,All,All Students,58.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-2170,Hillsborough Township,,,ELA,All,Economically Disadvantaged,53.0,2018-19:StudentGrowth,48.0
+2018-19,PARCC,35-2170,Hillsborough Township,,,ELA,All,Students with Disabilities,50.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 4,All Students,54.5,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 5,All Students,42.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 6,All Students,68.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 7,All Students,62.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-2170,Hillsborough Township,,,ELA,Grade 8,All Students,60.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-2170,Hillsborough Township,,,Math,All,All Students,55.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-2170,Hillsborough Township,,,Math,All,Economically Disadvantaged,57.0,2018-19:StudentGrowth,46.0
+2018-19,PARCC,35-2170,Hillsborough Township,,,Math,All,Students with Disabilities,52.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-2170,Hillsborough Township,,,Math,Grade 4,All Students,65.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-2170,Hillsborough Township,,,Math,Grade 5,All Students,53.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-2170,Hillsborough Township,,,Math,Grade 6,All Students,53.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-2170,Hillsborough Township,,,Math,Grade 7,All Students,49.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-3320,Montgomery Township,,,ELA,All,All Students,57.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-3320,Montgomery Township,,,ELA,All,Economically Disadvantaged,49.0,2018-19:StudentGrowth,48.0
+2018-19,PARCC,35-3320,Montgomery Township,,,ELA,All,Students with Disabilities,52.0,2018-19:StudentGrowth,43.0
+2018-19,PARCC,35-3320,Montgomery Township,,,ELA,Grade 4,All Students,62.5,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-3320,Montgomery Township,,,ELA,Grade 5,All Students,68.5,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-3320,Montgomery Township,,,ELA,Grade 6,All Students,55.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-3320,Montgomery Township,,,ELA,Grade 7,All Students,47.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-3320,Montgomery Township,,,ELA,Grade 8,All Students,51.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-3320,Montgomery Township,,,Math,All,All Students,58.0,2018-19:StudentGrowth,50.0
+2018-19,PARCC,35-3320,Montgomery Township,,,Math,All,Economically Disadvantaged,47.0,2018-19:StudentGrowth,46.0
+2018-19,PARCC,35-3320,Montgomery Township,,,Math,All,Students with Disabilities,51.0,2018-19:StudentGrowth,45.0
+2018-19,PARCC,35-3320,Montgomery Township,,,Math,Grade 4,All Students,64.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-3320,Montgomery Township,,,Math,Grade 5,All Students,58.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-3320,Montgomery Township,,,Math,Grade 6,All Students,59.0,2018-19:StudentGrowthByGrade,
+2018-19,PARCC,35-3320,Montgomery Township,,,Math,Grade 7,All Students,54.0,2018-19:StudentGrowthByGrade,
+2022-23,NJSLA,35-0350,Bernards Township,,,ELA,All,All Students,61.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0350,Bernards Township,,,ELA,All,Economically Disadvantaged,41.5,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0350,Bernards Township,,,ELA,All,Students with Disabilities,47.0,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-0350,Bernards Township,,,ELA,Grade 4,All Students,61.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0350,Bernards Township,,,ELA,Grade 5,All Students,65.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0350,Bernards Township,,,ELA,Grade 6,All Students,66.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0350,Bernards Township,,,ELA,Grade 7,All Students,71.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0350,Bernards Township,,,ELA,Grade 8,All Students,44.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0350,Bernards Township,,,Math,All,All Students,61.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0350,Bernards Township,,,Math,All,Economically Disadvantaged,74.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0350,Bernards Township,,,Math,All,Students with Disabilities,50.0,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-0350,Bernards Township,,,Math,Grade 4,All Students,65.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0350,Bernards Township,,,Math,Grade 5,All Students,52.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0350,Bernards Township,,,Math,Grade 6,All Students,69.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0350,Bernards Township,,,Math,Grade 7,All Students,54.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,All,All Students,58.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Economically Disadvantaged,47.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Students with Disabilities,47.0,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 4,All Students,61.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 5,All Students,46.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 6,All Students,70.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 7,All Students,56.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 8,All Students,55.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,All,All Students,54.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,All,Economically Disadvantaged,52.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,All,Students with Disabilities,48.0,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 4,All Students,62.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 5,All Students,48.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 6,All Students,52.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 7,All Students,49.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,All Students,56.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Economically Disadvantaged,42.5,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Students with Disabilities,39.0,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 7,All Students,56.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 8,All Students,55.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,All Students,49.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Economically Disadvantaged,51.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Students with Disabilities,43.5,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,Grade 7,All Students,49.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,All Students,40.5,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Economically Disadvantaged,36.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Students with Disabilities,41.0,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,Grade 4,All Students,40.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,All Students,70.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Economically Disadvantaged,67.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Students with Disabilities,52.5,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,Grade 4,All Students,70.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,All Students,80.5,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,Grade 4,All Students,80.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,All Students,52.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,Grade 4,All Students,50.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,All Students,71.5,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,Students with Disabilities,71.0,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,Grade 4,All Students,71.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,All Students,73.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,Students with Disabilities,62.0,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,Grade 4,All Students,73.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,All Students,53.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Economically Disadvantaged,50.5,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Students with Disabilities,38.0,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 5,All Students,35.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 6,All Students,67.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,All Students,52.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Economically Disadvantaged,56.5,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Students with Disabilities,36.0,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 5,All Students,45.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 6,All Students,58.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,All Students,76.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,Students with Disabilities,43.5,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,Grade 4,All Students,78.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,All Students,68.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,Students with Disabilities,54.0,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,Grade 4,All Students,69.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,All Students,66.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Economically Disadvantaged,68.5,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Students with Disabilities,62.5,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 5,All Students,58.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 6,All Students,72.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,All Students,49.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Economically Disadvantaged,44.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Students with Disabilities,48.5,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 5,All Students,53.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 6,All Students,44.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,All Students,41.5,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Economically Disadvantaged,33.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Students with Disabilities,45.0,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,Grade 4,All Students,41.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,All Students,49.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Economically Disadvantaged,44.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Students with Disabilities,48.0,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,Grade 4,All Students,48.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,All,All Students,39.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,Grade 4,All Students,39.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,All,All Students,48.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,Grade 4,All Students,51.5,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,All Students,63.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,Grade 4,All Students,63.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,All Students,70.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,Grade 4,All Students,70.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-2170,Hillsborough Township,,,ELA,All,All Students,53.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-2170,Hillsborough Township,,,ELA,All,Economically Disadvantaged,46.5,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-2170,Hillsborough Township,,,ELA,All,Students with Disabilities,45.0,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 4,All Students,57.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 5,All Students,32.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 6,All Students,55.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 7,All Students,61.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 8,All Students,63.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-2170,Hillsborough Township,,,Math,All,All Students,56.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-2170,Hillsborough Township,,,Math,All,Economically Disadvantaged,55.5,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-2170,Hillsborough Township,,,Math,All,Students with Disabilities,51.0,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 4,All Students,66.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 5,All Students,48.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 6,All Students,59.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 7,All Students,46.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-3320,Montgomery Township,,,ELA,All,All Students,66.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-3320,Montgomery Township,,,ELA,All,Economically Disadvantaged,55.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-3320,Montgomery Township,,,ELA,All,Students with Disabilities,60.0,2022-23:StudentGrowth,40.0
+2022-23,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 4,All Students,76.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 5,All Students,54.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 6,All Students,59.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 7,All Students,90.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 8,All Students,54.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-3320,Montgomery Township,,,Math,All,All Students,69.0,2022-23:StudentGrowth,50.0
+2022-23,NJSLA,35-3320,Montgomery Township,,,Math,All,Economically Disadvantaged,66.0,2022-23:StudentGrowth,46.0
+2022-23,NJSLA,35-3320,Montgomery Township,,,Math,All,Students with Disabilities,68.0,2022-23:StudentGrowth,42.0
+2022-23,NJSLA,35-3320,Montgomery Township,,,Math,Grade 4,All Students,75.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-3320,Montgomery Township,,,Math,Grade 5,All Students,67.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-3320,Montgomery Township,,,Math,Grade 6,All Students,63.0,2022-23:StudentGrowthByGrade,
+2022-23,NJSLA,35-3320,Montgomery Township,,,Math,Grade 7,All Students,77.0,2022-23:StudentGrowthByGrade,
+2023-24,NJSLA,35-0350,Bernards Township,,,ELA,All,All Students,67.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0350,Bernards Township,,,ELA,All,Economically Disadvantaged,68.0,2023-24:StudentGrowth,48.0
+2023-24,NJSLA,35-0350,Bernards Township,,,ELA,All,Students with Disabilities,57.0,2023-24:StudentGrowth,43.0
+2023-24,NJSLA,35-0350,Bernards Township,,,ELA,Grade 4,All Students,68.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0350,Bernards Township,,,ELA,Grade 5,All Students,66.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0350,Bernards Township,,,ELA,Grade 6,All Students,66.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0350,Bernards Township,,,ELA,Grade 7,All Students,73.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0350,Bernards Township,,,ELA,Grade 8,All Students,59.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0350,Bernards Township,,,Math,All,All Students,56.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0350,Bernards Township,,,Math,All,Economically Disadvantaged,59.0,2023-24:StudentGrowth,48.0
+2023-24,NJSLA,35-0350,Bernards Township,,,Math,All,Students with Disabilities,47.0,2023-24:StudentGrowth,44.0
+2023-24,NJSLA,35-0350,Bernards Township,,,Math,Grade 4,All Students,61.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0350,Bernards Township,,,Math,Grade 5,All Students,56.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0350,Bernards Township,,,Math,Grade 6,All Students,60.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0350,Bernards Township,,,Math,Grade 7,All Students,44.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,All,All Students,56.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Economically Disadvantaged,47.0,2023-24:StudentGrowth,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Students with Disabilities,49.0,2023-24:StudentGrowth,43.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 4,All Students,62.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 5,All Students,41.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 6,All Students,61.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 7,All Students,61.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 8,All Students,57.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,All,All Students,52.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,All,Economically Disadvantaged,42.0,2023-24:StudentGrowth,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,All,Students with Disabilities,42.0,2023-24:StudentGrowth,44.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 4,All Students,67.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 5,All Students,43.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 6,All Students,50.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 7,All Students,43.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,All Students,59.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Economically Disadvantaged,48.0,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Students with Disabilities,51.0,2024-25:StudentGrowthTrends,43.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 7,All Students,61.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 8,All Students,57.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,All Students,43.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Economically Disadvantaged,36.0,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Students with Disabilities,48.0,2024-25:StudentGrowthTrends,44.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,Grade 7,All Students,43.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,All Students,55.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Economically Disadvantaged,40.0,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Students with Disabilities,55.5,2024-25:StudentGrowthTrends,43.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,Grade 4,All Students,54.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,All Students,67.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Economically Disadvantaged,65.0,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Students with Disabilities,51.5,2024-25:StudentGrowthTrends,44.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,Grade 4,All Students,67.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,All Students,69.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,Students with Disabilities,57.5,2024-25:StudentGrowthTrends,43.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,Grade 4,All Students,69.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,All Students,63.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,Students with Disabilities,66.0,2024-25:StudentGrowthTrends,44.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,Grade 4,All Students,63.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,All Students,65.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,Grade 4,All Students,65.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,All Students,76.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,Grade 4,All Students,76.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,All Students,48.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Economically Disadvantaged,47.5,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Students with Disabilities,43.0,2024-25:StudentGrowthTrends,43.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 5,All Students,35.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 6,All Students,59.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,All Students,46.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Economically Disadvantaged,31.0,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Students with Disabilities,32.0,2024-25:StudentGrowthTrends,44.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 5,All Students,38.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 6,All Students,51.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,All Students,70.5,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,Students with Disabilities,59.0,2024-25:StudentGrowthTrends,43.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,Grade 4,All Students,69.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,All Students,66.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,Students with Disabilities,67.0,2024-25:StudentGrowthTrends,44.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,Grade 4,All Students,66.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,All Students,54.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Economically Disadvantaged,45.5,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Students with Disabilities,47.5,2024-25:StudentGrowthTrends,43.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 5,All Students,48.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 6,All Students,62.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,All Students,48.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Economically Disadvantaged,44.0,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Students with Disabilities,36.0,2024-25:StudentGrowthTrends,44.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 5,All Students,49.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 6,All Students,47.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,All Students,53.5,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Economically Disadvantaged,45.0,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Students with Disabilities,39.0,2024-25:StudentGrowthTrends,43.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,Grade 4,All Students,53.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,All Students,52.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Economically Disadvantaged,43.0,2024-25:StudentGrowthTrends,48.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Students with Disabilities,26.0,2024-25:StudentGrowthTrends,44.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,Grade 4,All Students,51.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,All,All Students,82.5,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,Grade 4,All Students,81.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,All,All Students,80.5,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,Grade 4,All Students,80.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,All Students,56.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,Students with Disabilities,52.5,2024-25:StudentGrowthTrends,43.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,Grade 4,All Students,56.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,All Students,74.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,Students with Disabilities,64.0,2024-25:StudentGrowthTrends,44.0
+2023-24,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,Grade 4,All Students,73.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-2170,Hillsborough Township,,,ELA,All,All Students,51.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-2170,Hillsborough Township,,,ELA,All,Economically Disadvantaged,43.0,2023-24:StudentGrowth,48.0
+2023-24,NJSLA,35-2170,Hillsborough Township,,,ELA,All,Students with Disabilities,38.0,2023-24:StudentGrowth,43.0
+2023-24,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 4,All Students,58.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 5,All Students,31.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 6,All Students,43.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 7,All Students,64.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 8,All Students,55.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-2170,Hillsborough Township,,,Math,All,All Students,49.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-2170,Hillsborough Township,,,Math,All,Economically Disadvantaged,44.0,2023-24:StudentGrowth,48.0
+2023-24,NJSLA,35-2170,Hillsborough Township,,,Math,All,Students with Disabilities,43.5,2023-24:StudentGrowth,44.0
+2023-24,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 4,All Students,58.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 5,All Students,45.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 6,All Students,48.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 7,All Students,43.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-3320,Montgomery Township,,,ELA,All,All Students,74.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-3320,Montgomery Township,,,ELA,All,Economically Disadvantaged,67.0,2023-24:StudentGrowth,48.0
+2023-24,NJSLA,35-3320,Montgomery Township,,,ELA,All,Students with Disabilities,65.5,2023-24:StudentGrowth,43.0
+2023-24,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 4,All Students,78.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 5,All Students,73.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 6,All Students,72.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 7,All Students,85.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 8,All Students,62.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-3320,Montgomery Township,,,Math,All,All Students,67.0,2023-24:StudentGrowth,50.0
+2023-24,NJSLA,35-3320,Montgomery Township,,,Math,All,Economically Disadvantaged,53.0,2023-24:StudentGrowth,48.0
+2023-24,NJSLA,35-3320,Montgomery Township,,,Math,All,Students with Disabilities,64.0,2023-24:StudentGrowth,44.0
+2023-24,NJSLA,35-3320,Montgomery Township,,,Math,Grade 4,All Students,70.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-3320,Montgomery Township,,,Math,Grade 5,All Students,67.5,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-3320,Montgomery Township,,,Math,Grade 6,All Students,62.0,2023-24:StudentGrowthByGrade,
+2023-24,NJSLA,35-3320,Montgomery Township,,,Math,Grade 7,All Students,72.0,2023-24:StudentGrowthByGrade,
+2024-25,NJSLA,35-0350,Bernards Township,,,ELA,All,All Students,61.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0350,Bernards Township,,,ELA,All,Economically Disadvantaged,68.0,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-0350,Bernards Township,,,ELA,All,Students with Disabilities,49.5,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-0350,Bernards Township,,,ELA,Grade 4,All Students,66.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0350,Bernards Township,,,ELA,Grade 5,All Students,81.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0350,Bernards Township,,,ELA,Grade 6,All Students,51.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0350,Bernards Township,,,ELA,Grade 7,All Students,63.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0350,Bernards Township,,,ELA,Grade 8,All Students,40.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0350,Bernards Township,,,Math,All,All Students,70.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0350,Bernards Township,,,Math,All,Economically Disadvantaged,66.0,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-0350,Bernards Township,,,Math,All,Students with Disabilities,59.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-0350,Bernards Township,,,Math,Grade 4,All Students,75.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0350,Bernards Township,,,Math,Grade 5,All Students,79.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0350,Bernards Township,,,Math,Grade 6,All Students,71.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0350,Bernards Township,,,Math,Grade 7,All Students,53.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,All,All Students,58.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Economically Disadvantaged,48.0,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,All,Students with Disabilities,47.0,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 4,All Students,58.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 5,All Students,49.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 6,All Students,62.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 7,All Students,60.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,ELA,Grade 8,All Students,60.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,All,All Students,50.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,All,Economically Disadvantaged,41.5,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,All,Students with Disabilities,44.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 4,All Students,56.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 5,All Students,47.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 6,All Students,49.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,,,Math,Grade 7,All Students,42.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,All Students,60.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Economically Disadvantaged,46.0,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,All,Students with Disabilities,45.0,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 7,All Students,60.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,ELA,Grade 8,All Students,60.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,All Students,42.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Economically Disadvantaged,41.0,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,All,Students with Disabilities,41.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,010,Bridgewater-Raritan Middle School,Math,Grade 7,All Students,42.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,All Students,54.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Economically Disadvantaged,45.0,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,All,Students with Disabilities,44.5,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,ELA,Grade 4,All Students,54.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,All Students,54.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Economically Disadvantaged,49.0,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,All,Students with Disabilities,53.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,030,Adamsville Primary School,Math,Grade 4,All Students,54.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,All,All Students,65.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,ELA,Grade 4,All Students,65.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,All,All Students,42.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,040,Bradley Gardens Primary School,Math,Grade 4,All Students,42.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,All Students,73.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,Economically Disadvantaged,67.0,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,All,Students with Disabilities,68.0,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,ELA,Grade 4,All Students,73.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,All Students,68.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,Economically Disadvantaged,55.0,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,All,Students with Disabilities,76.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,045,Crim Primary School,Math,Grade 4,All Students,68.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,All Students,52.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Economically Disadvantaged,45.5,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,All,Students with Disabilities,46.0,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 5,All Students,45.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,ELA,Grade 6,All Students,61.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,All Students,47.5,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Economically Disadvantaged,45.0,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,All,Students with Disabilities,37.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 5,All Students,40.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,048,Eisenhower Intermediate School,Math,Grade 6,All Students,53.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,All Students,65.5,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,All,Students with Disabilities,46.0,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,ELA,Grade 4,All Students,65.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,All Students,70.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,All,Students with Disabilities,51.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,063,Hamilton Primary School,Math,Grade 4,All Students,70.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,All Students,60.5,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Economically Disadvantaged,52.0,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,All,Students with Disabilities,54.5,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 5,All Students,54.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,ELA,Grade 6,All Students,64.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,All Students,49.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Economically Disadvantaged,33.0,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,All,Students with Disabilities,45.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 5,All Students,53.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,065,Hillside Intermediate School,Math,Grade 6,All Students,45.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,All Students,41.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Economically Disadvantaged,45.0,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,All,Students with Disabilities,50.0,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,ELA,Grade 4,All Students,41.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,All Students,35.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Economically Disadvantaged,37.0,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,All,Students with Disabilities,40.5,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,067,John F. Kennedy Primary School,Math,Grade 4,All Students,36.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,All,All Students,49.5,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,ELA,Grade 4,All Students,48.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,All,All Students,66.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,085,Milltown Primary School,Math,Grade 4,All Students,66.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,All,All Students,49.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,ELA,Grade 4,All Students,48.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,All,All Students,64.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-0555,Bridgewater-Raritan Regional,105,Van Holten Primary School,Math,Grade 4,All Students,63.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-2170,Hillsborough Township,,,ELA,All,All Students,50.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-2170,Hillsborough Township,,,ELA,All,Economically Disadvantaged,41.0,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-2170,Hillsborough Township,,,ELA,All,Students with Disabilities,42.0,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 4,All Students,48.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 5,All Students,34.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 6,All Students,39.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 7,All Students,68.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-2170,Hillsborough Township,,,ELA,Grade 8,All Students,61.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-2170,Hillsborough Township,,,Math,All,All Students,52.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-2170,Hillsborough Township,,,Math,All,Economically Disadvantaged,45.0,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-2170,Hillsborough Township,,,Math,All,Students with Disabilities,46.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 4,All Students,61.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 5,All Students,40.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 6,All Students,54.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-2170,Hillsborough Township,,,Math,Grade 7,All Students,47.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-3320,Montgomery Township,,,ELA,All,All Students,66.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-3320,Montgomery Township,,,ELA,All,Economically Disadvantaged,55.0,2024-25:StudentGrowthTrends,48.0
+2024-25,NJSLA,35-3320,Montgomery Township,,,ELA,All,Students with Disabilities,52.0,2024-25:StudentGrowthTrends,42.0
+2024-25,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 4,All Students,67.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 5,All Students,67.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 6,All Students,75.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 7,All Students,75.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-3320,Montgomery Township,,,ELA,Grade 8,All Students,41.5,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-3320,Montgomery Township,,,Math,All,All Students,67.0,2024-25:StudentGrowthTrends,50.0
+2024-25,NJSLA,35-3320,Montgomery Township,,,Math,All,Economically Disadvantaged,56.0,2024-25:StudentGrowthTrends,47.0
+2024-25,NJSLA,35-3320,Montgomery Township,,,Math,All,Students with Disabilities,60.0,2024-25:StudentGrowthTrends,44.0
+2024-25,NJSLA,35-3320,Montgomery Township,,,Math,Grade 4,All Students,64.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-3320,Montgomery Township,,,Math,Grade 5,All Students,67.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-3320,Montgomery Township,,,Math,Grade 6,All Students,77.0,2024-25:StudentGrowthbyGrade,
+2024-25,NJSLA,35-3320,Montgomery Township,,,Math,Grade 7,All Students,58.5,2024-25:StudentGrowthbyGrade,

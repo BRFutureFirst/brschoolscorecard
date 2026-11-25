@@ -1,0 +1,581 @@
+year,metric,group,universe,n,best,top10,top20,median,metricLabel,rank Bridgewater-Raritan,rank Bernards,rank Montgomery,rank Hillsborough,rank Watchung Hills
+2015-16,grad5,All Students,k12,269,99.6,98.7,98.4,94.3,5-year graduation rate,106.0,21.0,34.0,52.0,29.0
+2015-16,grad5,All Students,all,306,100.0,99.1,98.7,94.5,5-year graduation rate,128.0,31.0,49.0,68.0,42.0
+2015-16,grad5,Economically Disadvantaged,k12,230,100.0,100.0,97.9,89.3,5-year graduation rate,117.0,,1.0,147.0,105.0
+2015-16,grad5,Economically Disadvantaged,all,265,100.0,100.0,100.0,89.5,5-year graduation rate,140.0,,1.0,173.0,128.0
+2015-16,grad5,Students with Disabilities,k12,266,100.0,97.3,95.8,86.2,5-year graduation rate,114.0,48.0,129.0,86.0,46.0
+2015-16,grad5,Students with Disabilities,all,288,100.0,100.0,96.8,86.4,5-year graduation rate,129.0,60.0,144.0,100.0,58.0
+2016-17,absenteeism,All Students,k12,224,1.8,3.1,3.9,8.8,Chronic absenteeism,35.0,38.0,5.0,23.0,
+2016-17,absenteeism,All Students,all,652,0.0,1.4,2.3,7.6,Chronic absenteeism,159.0,166.0,46.0,106.0,174.0
+2016-17,absenteeism,Economically Disadvantaged,k12,221,0.0,4.7,6.2,12.9,Chronic absenteeism,91.0,171.0,39.0,93.0,
+2016-17,absenteeism,Economically Disadvantaged,all,620,0.0,0.0,0.0,12.5,Chronic absenteeism,279.0,466.0,163.0,285.0,164.0
+2016-17,absenteeism,Students with Disabilities,k12,224,3.1,6.0,6.9,14.2,Chronic absenteeism,53.0,61.0,36.0,36.0,
+2016-17,absenteeism,Students with Disabilities,all,644,0.0,0.0,0.0,12.1,Chronic absenteeism,257.0,272.0,198.0,198.0,247.0
+2016-17,algebra1,All Students,k12,214,96.9,75.9,69.6,39.9,Algebra I proficiency,23.0,3.0,14.0,16.0,
+2016-17,algebra1,All Students,all,480,100.0,100.0,100.0,55.0,Algebra I proficiency,182.0,130.0,164.0,168.0,
+2016-17,algebra1,Economically Disadvantaged,k12,174,60.0,52.2,42.9,23.1,Algebra I proficiency,31.0,,23.0,27.0,
+2016-17,algebra1,Economically Disadvantaged,all,242,100.0,65.6,53.3,23.7,Algebra I proficiency,52.0,,42.0,46.0,
+2016-17,algebra1,Students with Disabilities,k12,85,50.0,34.3,27.0,18.1,Algebra I proficiency,24.0,8.0,16.0,25.0,
+2016-17,algebra1,Students with Disabilities,all,114,53.3,34.6,28.6,17.4,Algebra I proficiency,29.0,9.0,19.0,31.0,
+2016-17,apCourse,All Students,k12,269,100.0,77.3,73.4,38.4,Students in AP/IB courses,85.0,24.0,19.0,80.0,65.0
+2016-17,apCourse,All Students,all,298,100.0,89.1,76.0,37.6,Students in AP/IB courses,93.0,29.0,24.0,88.0,71.0
+2016-17,apScore3,All Students,k12,254,80.4,61.7,51.9,20.9,Students scoring 3+ on an AP exam,60.0,9.0,11.0,70.0,43.0
+2016-17,apScore3,All Students,all,272,100.0,63.7,54.2,20.7,Students scoring 3+ on an AP exam,66.0,11.0,13.0,76.0,47.0
+2016-17,dualEnroll,All Students,k12,91,100.0,84.7,73.7,24.8,Students in dual-enrollment courses,,86.0,,88.0,
+2016-17,dualEnroll,All Students,all,112,100.0,100.0,81.4,31.5,Students in dual-enrollment courses,,107.0,,109.0,
+2016-17,ela,All Students,k12,225,89.0,80.4,77.4,55.6,ELA proficiency,32.0,9.0,16.0,37.0,
+2016-17,ela,All Students,all,646,95.7,90.6,87.6,58.7,ELA proficiency,122.0,52.0,80.0,142.0,316.0
+2016-17,ela,Economically Disadvantaged,k12,188,65.3,57.9,51.8,37.7,ELA proficiency,51.0,145.0,95.0,,
+2016-17,ela,Economically Disadvantaged,all,520,100.0,75.2,67.3,40.0,ELA proficiency,174.0,400.0,289.0,,515.0
+2016-17,ela,Students with Disabilities,k12,128,50.4,41.2,37.1,23.8,ELA proficiency,,14.0,42.0,26.0,
+2016-17,ela,Students with Disabilities,all,420,100.0,59.4,55.5,25.5,ELA proficiency,,86.0,155.0,115.0,231.0
+2016-17,elaMath,All Students,k12,221,83.2,76.5,71.7,49.5,ELA + Math proficiency (average),37.0,3.0,11.0,27.0,
+2016-17,elaMath,All Students,all,632,92.8,86.5,83.2,52.2,ELA + Math proficiency (average),129.0,33.0,53.0,105.0,391.0
+2016-17,elaMath,Economically Disadvantaged,k12,183,57.2,48.6,45.8,32.6,ELA + Math proficiency (average),59.0,140.0,57.0,,
+2016-17,elaMath,Economically Disadvantaged,all,495,90.8,68.2,58.0,34.0,ELA + Math proficiency (average),191.0,385.0,189.0,,495.0
+2016-17,elaMath,Students with Disabilities,k12,113,45.7,37.9,33.9,23.0,ELA + Math proficiency (average),,11.0,37.0,21.0,
+2016-17,elaMath,Students with Disabilities,all,357,90.9,52.5,48.0,25.0,ELA + Math proficiency (average),,69.0,142.0,102.0,280.0
+2016-17,grad4,All Students,k12,269,100.0,98.6,98.1,93.6,4-year graduation rate,97.0,21.0,25.0,24.0,62.0
+2016-17,grad4,All Students,all,306,100.0,99.3,98.7,93.6,4-year graduation rate,117.0,34.0,40.0,38.0,80.0
+2016-17,grad4,Economically Disadvantaged,k12,239,100.0,100.0,97.1,87.6,4-year graduation rate,180.0,,177.0,21.0,177.0
+2016-17,grad4,Economically Disadvantaged,all,275,100.0,100.0,100.0,87.9,4-year graduation rate,210.0,,206.0,33.0,206.0
+2016-17,grad4,Students with Disabilities,k12,268,100.0,96.2,93.9,81.8,4-year graduation rate,93.0,55.0,73.0,51.0,32.0
+2016-17,grad4,Students with Disabilities,all,287,100.0,100.0,96.1,82.5,4-year graduation rate,107.0,68.0,87.0,64.0,44.0
+2016-17,grad5,All Students,k12,269,100.0,99.3,98.9,95.0,5-year graduation rate,75.0,30.0,16.0,33.0,53.0
+2016-17,grad5,All Students,all,305,100.0,99.7,99.3,95.1,5-year graduation rate,96.0,46.0,26.0,49.0,73.0
+2016-17,grad5,Economically Disadvantaged,k12,239,100.0,100.0,100.0,90.6,5-year graduation rate,107.0,,165.0,34.0,64.0
+2016-17,grad5,Economically Disadvantaged,all,274,100.0,100.0,100.0,91.2,5-year graduation rate,134.0,,195.0,51.0,85.0
+2016-17,grad5,Students with Disabilities,k12,268,100.0,100.0,96.6,86.1,5-year graduation rate,81.0,71.0,36.0,33.0,40.0
+2016-17,grad5,Students with Disabilities,all,286,100.0,100.0,100.0,86.5,5-year graduation rate,95.0,85.0,47.0,44.0,51.0
+2016-17,math,All Students,k12,221,80.5,73.5,67.3,41.5,Math proficiency,34.0,2.0,8.0,17.0,
+2016-17,math,All Students,all,633,94.7,83.9,80.0,46.3,Math proficiency,128.0,25.0,39.0,81.0,468.0
+2016-17,math,Economically Disadvantaged,k12,215,49.4,44.8,39.9,26.5,Math proficiency,85.0,142.0,33.0,39.0,
+2016-17,math,Economically Disadvantaged,all,541,85.9,61.1,53.1,28.0,Math proficiency,244.0,376.0,121.0,133.0,535.0
+2016-17,math,Students with Disabilities,k12,167,41.8,33.7,31.3,18.0,Math proficiency,56.0,8.0,36.0,19.0,
+2016-17,math,Students with Disabilities,all,429,81.8,50.1,41.9,20.6,Math proficiency,189.0,61.0,139.0,88.0,390.0
+2016-17,math58,All Students,k12,222,78.2,72.5,65.3,40.4,Grades 5-8 Math proficiency,58.0,7.0,13.0,19.0,
+2016-17,math58,All Students,all,570,100.0,78.2,76.3,43.0,Grades 5-8 Math proficiency,175.0,27.0,52.0,71.0,
+2016-17,math58,Economically Disadvantaged,k12,199,63.6,45.5,39.3,26.3,Grades 5-8 Math proficiency,83.0,,40.0,78.0,
+2016-17,math58,Economically Disadvantaged,all,373,71.8,51.3,47.0,26.5,Grades 5-8 Math proficiency,162.0,,91.0,154.0,
+2016-17,math58,Students with Disabilities,k12,182,44.0,35.3,30.4,19.7,Grades 5-8 Math proficiency,72.0,31.0,80.0,45.0,
+2016-17,math58,Students with Disabilities,all,342,80.0,44.1,39.1,20.0,Grades 5-8 Math proficiency,147.0,76.0,162.0,103.0,
+2016-17,msgpEla,All Students,k12,225,77.5,63.0,59.0,49.0,ELA growth (mSGP),36.0,134.0,47.0,27.0,
+2016-17,msgpEla,All Students,all,588,82.0,74.0,68.0,50.0,ELA growth (mSGP),144.0,360.0,171.0,98.0,
+2016-17,msgpEla,Economically Disadvantaged,k12,204,77.5,58.0,56.0,46.0,ELA growth (mSGP),41.0,36.0,101.0,99.0,
+2016-17,msgpEla,Economically Disadvantaged,all,476,90.0,68.0,64.0,46.0,ELA growth (mSGP),112.0,96.0,229.0,226.0,
+2016-17,msgpEla,Students with Disabilities,k12,194,70.5,55.0,50.5,40.0,ELA growth (mSGP),59.0,117.0,87.0,47.0,
+2016-17,msgpEla,Students with Disabilities,all,502,83.0,70.5,62.0,42.0,ELA growth (mSGP),202.0,327.0,268.0,168.0,
+2016-17,msgpMath,All Students,k12,225,90.0,64.0,61.0,50.0,Math growth (mSGP),102.0,71.0,44.0,22.0,
+2016-17,msgpMath,All Students,all,586,90.0,74.0,69.0,50.0,Math growth (mSGP),292.0,219.0,159.0,99.0,
+2016-17,msgpMath,Economically Disadvantaged,k12,202,90.0,58.5,56.0,46.0,Math growth (mSGP),99.0,84.0,31.0,57.0,
+2016-17,msgpMath,Economically Disadvantaged,all,464,90.0,71.0,65.5,46.0,Math growth (mSGP),232.0,191.0,93.0,145.0,
+2016-17,msgpMath,Students with Disabilities,k12,191,69.0,58.0,55.0,43.0,Math growth (mSGP),93.0,120.0,12.0,16.0,
+2016-17,msgpMath,Students with Disabilities,all,487,81.5,69.0,63.5,43.0,Math growth (mSGP),235.0,300.0,49.0,62.0,
+2016-17,satTotal,All Students,k12,268,1331.0,1248.0,1223.0,1104.0,SAT average (Math + Reading & Writing),31.0,6.0,1.0,21.0,25.0
+2016-17,satTotal,All Students,all,302,1369.0,1272.0,1236.0,1097.0,SAT average (Math + Reading & Writing),37.0,9.0,3.0,26.0,30.0
+2017-18,absenteeism,All Students,k12,224,0.5,3.1,3.7,9.0,Chronic absenteeism,42.0,95.0,31.0,27.0,
+2017-18,absenteeism,All Students,all,640,0.0,0.5,1.4,7.7,Chronic absenteeism,181.0,334.0,132.0,111.0,325.0
+2017-18,absenteeism,Economically Disadvantaged,k12,219,0.0,5.0,7.1,13.5,Chronic absenteeism,95.0,205.0,33.0,107.0,
+2017-18,absenteeism,Economically Disadvantaged,all,591,0.0,0.0,0.0,13.1,Chronic absenteeism,277.0,534.0,139.0,305.0,325.0
+2017-18,absenteeism,Students with Disabilities,k12,224,0.0,6.1,7.4,15.0,Chronic absenteeism,79.0,79.0,54.0,53.0,
+2017-18,absenteeism,Students with Disabilities,all,625,0.0,0.0,0.0,12.7,Chronic absenteeism,303.0,303.0,239.0,232.0,359.0
+2017-18,algebra1,All Students,k12,217,100.0,81.0,76.0,44.0,Algebra I proficiency,31.0,4.0,3.0,26.0,
+2017-18,algebra1,All Students,all,493,100.0,100.0,100.0,60.0,Algebra I proficiency,196.0,143.0,134.0,188.0,470.0
+2017-18,algebra1,Economically Disadvantaged,k12,182,75.0,53.0,47.0,27.0,Algebra I proficiency,72.0,,7.0,17.0,
+2017-18,algebra1,Economically Disadvantaged,all,253,100.0,75.0,59.0,28.0,Algebra I proficiency,106.0,,22.0,34.0,
+2017-18,algebra1,Students with Disabilities,k12,100,64.0,40.0,33.0,20.0,Algebra I proficiency,25.0,23.0,3.0,39.0,
+2017-18,algebra1,Students with Disabilities,all,140,80.0,42.0,36.0,19.0,Algebra I proficiency,28.0,26.0,4.0,48.0,
+2017-18,apCourse,All Students,k12,268,100.0,67.5,61.6,34.2,Students in AP/IB courses,78.0,15.0,31.0,65.0,27.0
+2017-18,apCourse,All Students,all,307,100.0,72.4,63.1,32.2,Students in AP/IB courses,86.0,18.0,34.0,71.0,30.0
+2017-18,apScore3,All Students,k12,256,66.3,52.4,44.9,18.5,Students scoring 3+ on an AP exam,45.0,5.0,14.0,71.0,20.0
+2017-18,apScore3,All Students,all,292,71.2,52.6,45.2,16.7,Students scoring 3+ on an AP exam,47.0,6.0,15.0,76.0,21.0
+2017-18,dualEnroll,All Students,k12,261,92.8,65.0,57.0,0.0,Students in dual-enrollment courses,104.0,97.0,104.0,98.0,104.0
+2017-18,dualEnroll,All Students,all,301,92.8,68.6,61.9,0.0,Students in dual-enrollment courses,126.0,119.0,126.0,120.0,126.0
+2017-18,ela,All Students,k12,220,90.0,81.8,78.0,57.1,ELA proficiency,32.0,17.0,21.0,48.0,
+2017-18,ela,All Students,all,642,98.3,91.6,88.3,59.6,ELA proficiency,123.0,85.0,95.0,177.0,254.0
+2017-18,ela,Economically Disadvantaged,k12,188,69.7,60.3,55.0,41.1,ELA proficiency,41.0,81.0,87.0,60.0,
+2017-18,ela,Economically Disadvantaged,all,504,100.0,78.6,69.7,42.3,ELA proficiency,133.0,233.0,245.0,176.0,
+2017-18,ela,Students with Disabilities,k12,132,52.4,43.7,38.2,25.2,ELA proficiency,43.0,22.0,45.0,27.0,
+2017-18,ela,Students with Disabilities,all,438,100.0,62.5,55.0,25.6,ELA proficiency,155.0,100.0,162.0,111.0,320.0
+2017-18,elaMath,All Students,k12,203,84.6,77.9,74.0,52.3,ELA + Math proficiency (average),35.0,8.0,12.0,33.0,
+2017-18,elaMath,All Students,all,614,96.2,87.5,84.4,53.8,ELA + Math proficiency (average),124.0,42.0,57.0,121.0,389.0
+2017-18,elaMath,Economically Disadvantaged,k12,159,64.8,52.4,47.5,36.8,ELA + Math proficiency (average),56.0,54.0,43.0,31.0,
+2017-18,elaMath,Economically Disadvantaged,all,461,92.2,70.0,61.6,36.6,ELA + Math proficiency (average),163.0,156.0,138.0,109.0,
+2017-18,elaMath,Students with Disabilities,k12,89,47.0,40.5,35.4,25.6,ELA + Math proficiency (average),38.0,17.0,30.0,22.0,
+2017-18,elaMath,Students with Disabilities,all,333,96.2,52.0,47.4,26.6,ELA + Math proficiency (average),142.0,78.0,122.0,92.0,
+2017-18,grad4,All Students,k12,269,99.5,98.7,98.0,93.6,4-year graduation rate,115.0,41.0,18.0,100.0,44.0
+2017-18,grad4,All Students,all,308,100.0,99.0,98.6,94.0,4-year graduation rate,140.0,53.0,26.0,124.0,56.0
+2017-18,grad4,Economically Disadvantaged,k12,242,100.0,100.0,97.4,87.8,4-year graduation rate,185.0,60.0,137.0,142.0,
+2017-18,grad4,Economically Disadvantaged,all,279,100.0,100.0,98.5,88.7,4-year graduation rate,216.0,79.0,163.0,168.0,
+2017-18,grad4,Students with Disabilities,k12,266,100.0,96.8,93.9,82.8,4-year graduation rate,116.0,122.0,65.0,98.0,84.0
+2017-18,grad4,Students with Disabilities,all,287,100.0,98.1,95.0,83.3,4-year graduation rate,133.0,139.0,81.0,114.0,100.0
+2017-18,grad5,All Students,k12,269,100.0,99.4,99.0,95.3,5-year graduation rate,114.0,52.0,11.0,114.0,48.0
+2017-18,grad5,All Students,all,307,100.0,99.5,99.2,95.5,5-year graduation rate,140.0,69.0,17.0,140.0,65.0
+2017-18,grad5,Economically Disadvantaged,k12,241,100.0,100.0,100.0,90.4,5-year graduation rate,113.0,167.0,73.0,165.0,
+2017-18,grad5,Economically Disadvantaged,all,276,100.0,100.0,100.0,90.9,5-year graduation rate,141.0,199.0,98.0,197.0,
+2017-18,grad5,Students with Disabilities,k12,266,100.0,100.0,97.3,86.0,5-year graduation rate,115.0,140.0,39.0,84.0,90.0
+2017-18,grad5,Students with Disabilities,all,285,100.0,100.0,98.1,86.8,5-year graduation rate,131.0,156.0,52.0,100.0,106.0
+2017-18,math,All Students,k12,205,82.1,73.9,70.0,45.4,Math proficiency,36.0,4.0,7.0,22.0,
+2017-18,math,All Students,all,617,95.2,85.3,79.6,47.8,Math proficiency,129.0,31.0,40.0,82.0,508.0
+2017-18,math,Economically Disadvantaged,k12,169,75.0,44.8,42.2,30.2,Math proficiency,76.0,28.0,16.0,14.0,
+2017-18,math,Economically Disadvantaged,all,474,84.3,63.3,56.3,30.1,Math proficiency,215.0,98.0,69.0,66.0,
+2017-18,math,Students with Disabilities,k12,109,45.1,36.5,31.7,20.5,Math proficiency,42.0,13.0,27.0,15.0,
+2017-18,math,Students with Disabilities,all,363,92.3,47.2,42.9,22.8,Math proficiency,149.0,60.0,107.0,72.0,
+2017-18,math58,All Students,k12,223,80.8,73.8,68.9,42.1,Grades 5-8 Math proficiency,51.0,9.0,16.0,23.0,
+2017-18,math58,All Students,all,578,95.1,80.7,76.9,44.9,Grades 5-8 Math proficiency,143.0,32.0,49.0,71.0,
+2017-18,math58,Economically Disadvantaged,k12,196,58.0,44.4,40.0,27.5,Grades 5-8 Math proficiency,75.0,,17.0,44.0,
+2017-18,math58,Economically Disadvantaged,all,382,74.1,55.0,48.8,27.9,Grades 5-8 Math proficiency,157.0,,46.0,99.0,
+2017-18,math58,Students with Disabilities,k12,184,44.9,35.3,32.1,19.0,Grades 5-8 Math proficiency,85.0,13.0,47.0,33.0,
+2017-18,math58,Students with Disabilities,all,360,65.2,44.9,40.0,20.0,Grades 5-8 Math proficiency,176.0,38.0,117.0,80.0,
+2017-18,msgpEla,All Students,k12,225,76.5,61.0,58.0,49.0,ELA growth (mSGP),5.0,120.0,62.0,101.0,
+2017-18,msgpEla,All Students,all,588,80.0,70.5,66.0,50.0,ELA growth (mSGP),44.0,341.0,214.0,314.0,
+2017-18,msgpEla,Economically Disadvantaged,k12,218,77.0,63.0,56.0,46.0,ELA growth (mSGP),15.0,69.0,63.0,142.0,
+2017-18,msgpEla,Economically Disadvantaged,all,509,79.5,67.5,65.0,47.0,ELA growth (mSGP),63.0,195.0,180.0,345.0,
+2017-18,msgpEla,Students with Disabilities,k12,225,68.0,57.0,51.0,40.5,ELA growth (mSGP),18.0,127.0,115.0,115.0,
+2017-18,msgpEla,Students with Disabilities,all,550,91.0,67.5,64.0,42.0,ELA growth (mSGP),105.0,341.0,322.0,322.0,
+2017-18,msgpMath,All Students,k12,225,67.0,62.0,59.0,50.0,Math growth (mSGP),50.0,52.0,71.0,35.0,
+2017-18,msgpMath,All Students,all,588,82.0,71.5,67.0,51.0,Math growth (mSGP),185.0,189.0,222.0,141.0,
+2017-18,msgpMath,Economically Disadvantaged,k12,218,70.5,62.0,58.0,46.5,Math growth (mSGP),45.0,45.0,196.0,128.0,
+2017-18,msgpMath,Economically Disadvantaged,all,497,79.0,70.5,66.0,47.0,Math growth (mSGP),131.0,131.0,418.0,289.0,
+2017-18,msgpMath,Students with Disabilities,k12,225,71.0,59.0,54.0,43.0,Math growth (mSGP),52.0,53.0,104.0,35.0,
+2017-18,msgpMath,Students with Disabilities,all,543,93.0,68.0,65.0,44.0,Math growth (mSGP),166.0,168.0,280.0,131.0,
+2017-18,satTotal,All Students,k12,269,1347.0,1266.0,1226.0,1090.0,SAT average (Math + Reading & Writing),14.0,6.0,5.0,26.0,13.0
+2017-18,satTotal,All Students,all,307,1376.0,1272.0,1237.0,1086.0,SAT average (Math + Reading & Writing),19.0,8.0,6.0,32.0,17.0
+2018-19,absenteeism,All Students,k12,225,1.0,3.3,4.0,8.5,Chronic absenteeism,54.0,51.0,27.0,20.0,
+2018-19,absenteeism,All Students,all,651,0.0,0.8,1.5,7.5,Chronic absenteeism,213.0,205.0,124.0,107.0,248.0
+2018-19,absenteeism,Economically Disadvantaged,k12,221,0.0,5.6,7.2,13.3,Chronic absenteeism,96.0,24.0,89.0,82.0,
+2018-19,absenteeism,Economically Disadvantaged,all,594,0.0,0.0,0.7,13.0,Chronic absenteeism,288.0,119.0,274.0,259.0,324.0
+2018-19,absenteeism,Students with Disabilities,k12,225,1.7,6.4,7.1,14.4,Chronic absenteeism,93.0,68.0,65.0,27.0,
+2018-19,absenteeism,Students with Disabilities,all,640,0.0,0.0,0.0,12.4,Chronic absenteeism,332.0,275.0,264.0,151.0,375.0
+2018-19,algebra1,All Students,k12,215,100.0,79.0,71.0,40.0,Algebra I proficiency,31.0,6.0,3.0,20.0,
+2018-19,algebra1,All Students,all,491,100.0,100.0,100.0,54.0,Algebra I proficiency,204.0,150.0,140.0,186.0,335.0
+2018-19,algebra1,Economically Disadvantaged,k12,173,79.0,49.0,40.0,26.0,Algebra I proficiency,92.0,,4.0,32.0,
+2018-19,algebra1,Economically Disadvantaged,all,235,100.0,66.0,50.0,26.0,Algebra I proficiency,130.0,,11.0,52.0,
+2018-19,algebra1,Students with Disabilities,k12,102,68.0,36.0,29.0,17.0,Algebra I proficiency,29.0,6.0,8.0,47.0,
+2018-19,algebra1,Students with Disabilities,all,139,90.0,38.0,31.0,17.0,Algebra I proficiency,37.0,8.0,11.0,65.0,
+2018-19,apCourse,All Students,k12,268,81.5,67.6,61.0,34.0,Students in AP/IB courses,75.0,21.0,13.0,62.0,50.0
+2018-19,apCourse,All Students,all,307,87.7,72.7,62.1,33.2,Students in AP/IB courses,85.0,26.0,17.0,71.0,57.0
+2018-19,apScore3,All Students,k12,262,60.5,50.1,44.7,19.0,Students scoring 3+ on an AP exam,45.0,7.0,8.0,56.0,34.0
+2018-19,apScore3,All Students,all,293,69.0,50.4,44.8,18.0,Students scoring 3+ on an AP exam,48.0,8.0,9.0,60.0,36.0
+2018-19,dualEnroll,All Students,k12,259,90.6,70.3,63.0,6.0,Students in dual-enrollment courses,145.0,145.0,145.0,114.0,107.0
+2018-19,dualEnroll,All Students,all,298,100.0,76.6,68.6,7.4,Students in dual-enrollment courses,171.0,171.0,171.0,138.0,131.0
+2018-19,ela,All Students,k12,221,90.5,82.7,79.4,58.5,ELA proficiency,32.0,14.0,22.0,37.0,
+2018-19,ela,All Students,all,643,97.9,90.7,87.7,60.8,ELA proficiency,121.0,78.0,99.0,137.0,185.0
+2018-19,ela,Economically Disadvantaged,k12,187,74.7,63.1,58.9,42.8,ELA proficiency,39.0,100.0,43.0,61.0,
+2018-19,ela,Economically Disadvantaged,all,509,100.0,81.3,72.7,43.1,ELA proficiency,117.0,280.0,130.0,172.0,486.0
+2018-19,ela,Students with Disabilities,k12,154,61.9,46.2,40.9,24.8,ELA proficiency,34.0,18.0,53.0,29.0,
+2018-19,ela,Students with Disabilities,all,488,92.9,63.9,57.4,26.6,ELA proficiency,136.0,80.0,186.0,127.0,241.0
+2018-19,elaMath,All Students,k12,204,85.8,78.8,74.2,51.8,ELA + Math proficiency (average),37.0,8.0,13.0,26.0,
+2018-19,elaMath,All Students,all,614,94.0,87.4,84.2,54.5,ELA + Math proficiency (average),142.0,44.0,53.0,101.0,283.0
+2018-19,elaMath,Economically Disadvantaged,k12,158,63.6,56.2,49.2,37.1,ELA + Math proficiency (average),65.0,54.0,21.0,47.0,
+2018-19,elaMath,Economically Disadvantaged,all,457,93.2,70.8,63.6,37.2,ELA + Math proficiency (average),183.0,159.0,66.0,137.0,441.0
+2018-19,elaMath,Students with Disabilities,k12,105,52.9,40.6,37.1,26.5,ELA + Math proficiency (average),39.0,13.0,36.0,26.0,
+2018-19,elaMath,Students with Disabilities,all,367,85.8,56.5,51.5,27.3,ELA + Math proficiency (average),162.0,73.0,152.0,116.0,
+2018-19,grad4,All Students,k12,269,100.0,98.4,98.0,93.6,4-year graduation rate,106.0,38.0,50.0,133.0,17.0
+2018-19,grad4,All Students,all,309,100.0,99.0,98.3,93.8,4-year graduation rate,128.0,52.0,64.0,156.0,27.0
+2018-19,grad4,Economically Disadvantaged,k12,238,100.0,100.0,97.4,88.3,4-year graduation rate,190.0,,110.0,163.0,
+2018-19,grad4,Economically Disadvantaged,all,274,100.0,100.0,98.4,89.1,4-year graduation rate,222.0,,133.0,195.0,
+2018-19,grad4,Students with Disabilities,k12,260,100.0,96.7,94.3,82.6,4-year graduation rate,159.0,83.0,73.0,112.0,46.0
+2018-19,grad4,Students with Disabilities,all,283,100.0,98.0,96.4,82.9,4-year graduation rate,175.0,97.0,87.0,127.0,59.0
+2018-19,grad5,All Students,k12,269,100.0,99.0,98.4,95.1,5-year graduation rate,101.0,48.0,10.0,133.0,20.0
+2018-19,grad5,All Students,all,309,100.0,99.4,98.9,95.3,5-year graduation rate,122.0,61.0,18.0,161.0,29.0
+2018-19,grad5,Economically Disadvantaged,k12,237,100.0,100.0,98.4,90.9,5-year graduation rate,142.0,,57.0,188.0,
+2018-19,grad5,Economically Disadvantaged,all,273,100.0,100.0,100.0,91.9,5-year graduation rate,171.0,,78.0,221.0,
+2018-19,grad5,Students with Disabilities,k12,261,100.0,98.5,96.4,87.0,5-year graduation rate,146.0,94.0,39.0,109.0,39.0
+2018-19,grad5,Students with Disabilities,all,283,100.0,100.0,97.8,87.5,5-year graduation rate,163.0,111.0,53.0,126.0,53.0
+2018-19,math,All Students,k12,206,83.8,74.5,70.4,44.5,Math proficiency,43.0,4.0,6.0,22.0,
+2018-19,math,All Students,all,617,93.8,84.6,81.3,47.7,Math proficiency,165.0,33.0,39.0,88.0,386.0
+2018-19,math,Economically Disadvantaged,k12,168,60.5,48.7,42.3,29.2,Math proficiency,92.0,27.0,13.0,35.0,
+2018-19,math,Economically Disadvantaged,all,471,92.3,63.6,56.1,29.9,Math proficiency,277.0,91.0,47.0,112.0,412.0
+2018-19,math,Students with Disabilities,k12,125,46.7,36.8,31.1,20.7,Math proficiency,54.0,13.0,23.0,23.0,
+2018-19,math,Students with Disabilities,all,400,78.6,54.5,45.7,23.1,Math proficiency,207.0,73.0,118.0,118.0,
+2018-19,math58,All Students,k12,223,83.0,73.4,67.3,40.8,Grades 5-8 Math proficiency,61.0,6.0,14.0,20.0,
+2018-19,math58,All Students,all,576,91.2,82.7,77.8,43.2,Grades 5-8 Math proficiency,175.0,23.0,46.0,60.0,
+2018-19,math58,Economically Disadvantaged,k12,153,73.0,44.0,36.9,25.7,Grades 5-8 Math proficiency,104.0,,20.0,28.0,
+2018-19,math58,Economically Disadvantaged,all,331,73.0,50.6,46.4,26.5,Grades 5-8 Math proficiency,236.0,,53.0,67.0,
+2018-19,math58,Students with Disabilities,k12,151,53.5,37.3,30.2,19.0,Grades 5-8 Math proficiency,105.0,13.0,34.0,33.0,
+2018-19,math58,Students with Disabilities,all,316,71.5,50.0,40.5,20.0,Grades 5-8 Math proficiency,226.0,34.0,83.0,79.0,
+2018-19,msgpEla,All Students,k12,225,70.0,60.0,58.0,49.0,ELA growth (mSGP),30.0,30.0,22.0,14.0,
+2018-19,msgpEla,All Students,all,591,80.0,72.0,68.0,50.0,ELA growth (mSGP),153.0,153.0,127.0,104.0,
+2018-19,msgpEla,Economically Disadvantaged,k12,218,76.0,62.0,58.0,47.0,ELA growth (mSGP),97.0,10.0,73.0,44.0,
+2018-19,msgpEla,Economically Disadvantaged,all,500,77.0,68.5,66.0,47.0,ELA growth (mSGP),233.0,37.0,187.0,127.0,
+2018-19,msgpEla,Students with Disabilities,k12,225,68.0,56.0,52.0,43.0,ELA growth (mSGP),29.0,57.0,17.0,29.0,
+2018-19,msgpEla,Students with Disabilities,all,555,83.5,70.0,66.0,44.0,ELA growth (mSGP),159.0,226.0,124.0,159.0,
+2018-19,msgpMath,All Students,k12,225,68.0,61.0,60.0,51.0,Math growth (mSGP),125.0,9.0,27.0,46.0,
+2018-19,msgpMath,All Students,all,591,84.5,70.0,67.0,51.5,Math growth (mSGP),352.0,68.0,130.0,185.0,
+2018-19,msgpMath,Economically Disadvantaged,k12,217,76.0,62.0,58.0,47.0,Math growth (mSGP),168.0,3.0,103.0,26.0,
+2018-19,msgpMath,Economically Disadvantaged,all,492,85.0,70.0,65.5,48.0,Math growth (mSGP),378.0,8.0,254.0,77.0,
+2018-19,msgpMath,Students with Disabilities,k12,225,67.0,58.5,55.0,45.0,Math growth (mSGP),140.0,7.0,46.0,41.0,
+2018-19,msgpMath,Students with Disabilities,all,544,86.0,73.0,67.0,45.5,Math growth (mSGP),340.0,59.0,156.0,141.0,
+2018-19,satTotal,All Students,k12,269,1344.0,1254.0,1228.0,1087.0,SAT average (Math + Reading & Writing),28.0,5.0,4.0,40.0,20.0
+2018-19,satTotal,All Students,all,308,1396.0,1289.0,1240.0,1078.0,SAT average (Math + Reading & Writing),34.0,7.0,6.0,47.0,26.0
+2018-19,science,All Students,k12,225,67.0,54.0,49.7,22.7,Science proficiency,29.0,16.0,14.0,25.0,
+2018-19,science,All Students,all,631,91.0,66.0,60.0,25.3,Science proficiency,93.0,50.0,41.0,82.0,258.0
+2018-19,science,Economically Disadvantaged,k12,199,35.3,26.5,20.0,10.7,Science proficiency,55.0,,22.0,18.0,
+2018-19,science,Economically Disadvantaged,all,413,88.0,35.0,28.0,11.0,Science proficiency,128.0,,61.0,47.0,
+2018-19,science,Students with Disabilities,k12,216,33.0,22.7,17.5,6.5,Science proficiency,42.0,22.0,62.0,30.0,
+2018-19,science,Students with Disabilities,all,436,77.0,31.0,25.0,7.0,Science proficiency,103.0,62.0,141.0,81.0,263.0
+2019-20,apCourse,All Students,k12,270,91.4,71.2,62.7,33.3,Students in AP/IB courses,87.0,21.0,21.0,55.0,48.0
+2019-20,apCourse,All Students,all,310,91.4,74.0,65.1,32.3,Students in AP/IB courses,96.0,26.0,26.0,62.0,54.0
+2019-20,apScore3,All Students,k12,221,64.1,53.4,47.8,23.5,Students scoring 3+ on an AP exam,65.0,7.0,18.0,52.0,28.0
+2019-20,apScore3,All Students,all,234,67.4,54.6,48.7,23.4,Students scoring 3+ on an AP exam,70.0,8.0,20.0,55.0,31.0
+2019-20,dualEnroll,All Students,k12,270,83.2,72.5,61.5,6.3,Students in dual-enrollment courses,171.0,144.0,171.0,126.0,122.0
+2019-20,dualEnroll,All Students,all,310,96.5,76.3,67.5,8.0,Students in dual-enrollment courses,198.0,171.0,198.0,151.0,146.0
+2019-20,grad4,All Students,k12,270,100.0,98.6,98.1,93.8,4-year graduation rate,103.0,41.0,62.0,119.0,49.0
+2019-20,grad4,All Students,all,311,100.0,99.7,99.0,94.0,4-year graduation rate,125.0,59.0,83.0,143.0,68.0
+2019-20,grad4,Economically Disadvantaged,k12,241,100.0,100.0,96.6,88.9,4-year graduation rate,170.0,237.0,46.0,115.0,
+2019-20,grad4,Economically Disadvantaged,all,278,100.0,100.0,100.0,90.0,4-year graduation rate,201.0,272.0,67.0,144.0,
+2019-20,grad4,Students with Disabilities,k12,266,100.0,96.4,93.8,83.1,4-year graduation rate,135.0,78.0,74.0,190.0,51.0
+2019-20,grad4,Students with Disabilities,all,289,100.0,100.0,96.4,84.1,4-year graduation rate,153.0,93.0,89.0,212.0,66.0
+2019-20,grad5,All Students,k12,270,100.0,99.1,98.7,95.1,5-year graduation rate,93.0,48.0,48.0,130.0,43.0
+2019-20,grad5,All Students,all,310,100.0,100.0,99.2,95.3,5-year graduation rate,118.0,70.0,70.0,158.0,65.0
+2019-20,grad5,Economically Disadvantaged,k12,254,100.0,100.0,98.1,90.9,5-year graduation rate,134.0,245.0,38.0,161.0,66.0
+2019-20,grad5,Economically Disadvantaged,all,293,100.0,100.0,100.0,91.5,5-year graduation rate,167.0,282.0,62.0,196.0,94.0
+2019-20,grad5,Students with Disabilities,k12,268,100.0,100.0,96.1,86.3,5-year graduation rate,135.0,96.0,89.0,190.0,27.0
+2019-20,grad5,Students with Disabilities,all,293,100.0,100.0,100.0,86.7,5-year graduation rate,152.0,112.0,105.0,211.0,40.0
+2019-20,satTotal,All Students,k12,268,1342.0,1251.0,1225.0,1077.0,SAT average (Math + Reading & Writing),17.0,7.0,3.0,27.0,38.0
+2019-20,satTotal,All Students,all,307,1381.0,1285.0,1237.0,1073.0,SAT average (Math + Reading & Writing),23.0,10.0,5.0,33.0,44.0
+2020-21,absenteeism,All Students,k12,225,0.7,1.5,2.3,8.9,Chronic absenteeism,25.0,8.0,3.0,34.0,
+2020-21,absenteeism,All Students,all,647,0.0,0.7,0.9,7.9,Chronic absenteeism,121.0,44.0,26.0,149.0,102.0
+2020-21,absenteeism,Economically Disadvantaged,k12,220,0.0,5.5,6.7,16.2,Chronic absenteeism,64.0,4.0,21.0,106.0,
+2020-21,absenteeism,Economically Disadvantaged,all,579,0.0,0.0,2.7,16.6,Chronic absenteeism,190.0,24.0,75.0,274.0,226.0
+2020-21,absenteeism,Students with Disabilities,k12,225,1.9,3.3,6.5,16.1,Chronic absenteeism,61.0,17.0,3.0,58.0,
+2020-21,absenteeism,Students with Disabilities,all,634,0.0,0.0,1.8,13.6,Chronic absenteeism,241.0,123.0,35.0,234.0,243.0
+2020-21,apCourse,All Students,k12,270,84.0,67.2,61.8,33.5,Students in AP/IB courses,73.0,14.0,15.0,46.0,57.0
+2020-21,apCourse,All Students,all,312,91.1,72.1,64.6,32.0,Students in AP/IB courses,82.0,20.0,21.0,53.0,65.0
+2020-21,apCourse,Economically Disadvantaged,k12,244,80.0,51.9,43.8,20.5,Students in AP/IB courses,135.0,,56.0,108.0,80.0
+2020-21,apCourse,Economically Disadvantaged,all,286,100.0,61.1,48.6,20.0,Students in AP/IB courses,148.0,,66.0,119.0,90.0
+2020-21,apCourse,Students with Disabilities,k12,270,30.8,20.0,16.6,3.7,Students in AP/IB courses,149.0,105.0,126.0,68.0,76.0
+2020-21,apCourse,Students with Disabilities,all,306,46.9,23.1,18.0,3.4,Students in AP/IB courses,159.0,114.0,135.0,76.0,84.0
+2020-21,apScore3,All Students,k12,183,58.2,45.0,40.8,22.7,Students scoring 3+ on an AP exam,56.0,5.0,10.0,33.0,36.0
+2020-21,apScore3,All Students,all,196,58.7,45.7,41.0,22.5,Students scoring 3+ on an AP exam,60.0,6.0,11.0,36.0,39.0
+2020-21,dualEnroll,All Students,k12,270,88.3,75.8,64.5,13.0,Students in dual-enrollment courses,177.0,173.0,192.0,150.0,131.0
+2020-21,dualEnroll,All Students,all,312,95.6,78.0,68.5,14.6,Students in dual-enrollment courses,205.0,201.0,221.0,177.0,155.0
+2020-21,dualEnroll,Economically Disadvantaged,k12,244,100.0,73.8,53.2,8.8,Students in dual-enrollment courses,160.0,,165.0,129.0,47.0
+2020-21,dualEnroll,Economically Disadvantaged,all,286,100.0,74.1,60.0,9.9,Students in dual-enrollment courses,189.0,,194.0,155.0,58.0
+2020-21,dualEnroll,Students with Disabilities,k12,270,64.0,45.2,33.3,2.2,Students in dual-enrollment courses,159.0,160.0,160.0,116.0,137.0
+2020-21,dualEnroll,Students with Disabilities,all,306,64.0,47.8,39.0,2.4,Students in dual-enrollment courses,179.0,180.0,180.0,134.0,157.0
+2020-21,grad4,All Students,k12,270,100.0,98.6,98.2,93.3,4-year graduation rate,153.0,53.0,149.0,120.0,36.0
+2020-21,grad4,All Students,all,312,100.0,99.3,98.6,93.6,4-year graduation rate,183.0,71.0,177.0,146.0,50.0
+2020-21,grad4,Economically Disadvantaged,k12,253,100.0,99.2,96.0,87.9,4-year graduation rate,224.0,233.0,225.0,208.0,29.0
+2020-21,grad4,Economically Disadvantaged,all,293,100.0,100.0,99.0,89.0,4-year graduation rate,261.0,270.0,262.0,245.0,50.0
+2020-21,grad4,Students with Disabilities,k12,267,100.0,96.2,92.9,81.3,4-year graduation rate,205.0,161.0,260.0,130.0,33.0
+2020-21,grad4,Students with Disabilities,all,293,100.0,100.0,96.7,82.1,4-year graduation rate,228.0,184.0,284.0,152.0,49.0
+2020-21,grad5,All Students,k12,270,100.0,99.2,98.7,94.7,5-year graduation rate,122.0,63.0,29.0,88.0,13.0
+2020-21,grad5,All Students,all,312,100.0,100.0,99.2,95.0,5-year graduation rate,153.0,85.0,44.0,116.0,24.0
+2020-21,grad5,Economically Disadvantaged,k12,253,100.0,100.0,98.3,91.1,5-year graduation rate,172.0,226.0,41.0,224.0,53.0
+2020-21,grad5,Economically Disadvantaged,all,293,100.0,100.0,100.0,91.8,5-year graduation rate,209.0,263.0,63.0,261.0,78.0
+2020-21,grad5,Students with Disabilities,k12,267,100.0,97.9,96.0,85.5,5-year graduation rate,153.0,181.0,56.0,104.0,15.0
+2020-21,grad5,Students with Disabilities,all,293,100.0,100.0,98.4,86.2,5-year graduation rate,176.0,204.0,74.0,127.0,27.0
+2020-21,satTotal,All Students,k12,266,1358.0,1279.0,1248.0,1103.0,SAT average (Math + Reading & Writing),16.0,6.0,4.0,17.0,28.0
+2020-21,satTotal,All Students,all,303,1414.0,1312.0,1268.0,1100.0,SAT average (Math + Reading & Writing),24.0,10.0,7.0,26.0,37.0
+2021-22,absenteeism,All Students,k12,225,3.6,4.9,6.4,15.9,Chronic absenteeism,29.0,12.0,95.0,19.0,
+2021-22,absenteeism,All Students,all,651,0.4,3.6,4.3,13.9,Chronic absenteeism,94.0,36.0,318.0,59.0,409.0
+2021-22,absenteeism,Economically Disadvantaged,k12,221,0.0,10.1,12.3,23.9,Chronic absenteeism,95.0,18.0,171.0,67.0,
+2021-22,absenteeism,Economically Disadvantaged,all,594,0.0,3.7,6.7,23.4,Chronic absenteeism,278.0,75.0,429.0,214.0,577.0
+2021-22,absenteeism,Students with Disabilities,k12,225,5.1,9.9,11.2,22.7,Chronic absenteeism,61.0,18.0,103.0,14.0,
+2021-22,absenteeism,Students with Disabilities,all,638,0.0,3.1,5.7,20.5,Chronic absenteeism,213.0,89.0,340.0,79.0,478.0
+2021-22,algebra1,All Students,k12,202,96.0,75.0,66.0,33.0,Algebra I proficiency,40.0,6.0,6.0,26.0,
+2021-22,algebra1,All Students,all,472,100.0,100.0,100.0,48.0,Algebra I proficiency,223.0,142.0,142.0,192.0,318.0
+2021-22,algebra1,Economically Disadvantaged,k12,142,69.0,35.0,29.0,18.0,Algebra I proficiency,88.0,,,17.0,
+2021-22,algebra1,Economically Disadvantaged,all,210,100.0,71.0,50.0,20.0,Algebra I proficiency,135.0,,,45.0,
+2021-22,algebra1,Students with Disabilities,k12,66,38.0,28.0,21.0,15.0,Algebra I proficiency,60.0,6.0,1.0,37.0,
+2021-22,algebra1,Students with Disabilities,all,93,100.0,29.0,25.0,14.0,Algebra I proficiency,80.0,10.0,3.0,46.0,46.0
+2021-22,apCourse,All Students,k12,270,85.9,68.4,61.1,30.8,Students in AP/IB courses,74.0,21.0,16.0,55.0,45.0
+2021-22,apCourse,All Students,all,313,96.5,75.1,65.0,29.5,Students in AP/IB courses,82.0,27.0,21.0,63.0,53.0
+2021-22,apCourse,Economically Disadvantaged,k12,247,77.8,50.0,43.7,20.1,Students in AP/IB courses,184.0,125.0,24.0,121.0,97.0
+2021-22,apCourse,Economically Disadvantaged,all,290,93.3,53.8,48.9,19.7,Students in AP/IB courses,200.0,140.0,33.0,136.0,109.0
+2021-22,apCourse,Students with Disabilities,k12,269,46.0,20.3,15.6,3.8,Students in AP/IB courses,136.0,89.0,125.0,155.0,63.0
+2021-22,apCourse,Students with Disabilities,all,308,100.0,26.8,16.7,3.3,Students in AP/IB courses,149.0,99.0,137.0,170.0,71.0
+2021-22,apScore3,All Students,k12,199,66.8,49.5,44.6,22.3,Students scoring 3+ on an AP exam,58.0,10.0,8.0,42.0,37.0
+2021-22,apScore3,All Students,all,212,66.8,50.8,45.3,22.3,Students scoring 3+ on an AP exam,64.0,12.0,10.0,46.0,41.0
+2021-22,dualEnroll,All Students,k12,270,94.2,78.9,67.5,15.1,Students in dual-enrollment courses,187.0,174.0,201.0,158.0,139.0
+2021-22,dualEnroll,All Students,all,313,95.7,80.3,71.3,16.1,Students in dual-enrollment courses,216.0,203.0,230.0,187.0,166.0
+2021-22,dualEnroll,Economically Disadvantaged,k12,247,100.0,68.1,53.8,10.2,Students in dual-enrollment courses,171.0,171.0,171.0,156.0,116.0
+2021-22,dualEnroll,Economically Disadvantaged,all,290,100.0,72.1,60.3,10.4,Students in dual-enrollment courses,200.0,200.0,200.0,185.0,141.0
+2021-22,dualEnroll,Students with Disabilities,k12,269,95.2,58.2,37.7,2.9,Students in dual-enrollment courses,165.0,155.0,170.0,155.0,111.0
+2021-22,dualEnroll,Students with Disabilities,all,308,95.2,58.2,44.3,3.1,Students in dual-enrollment courses,188.0,178.0,194.0,178.0,129.0
+2021-22,ela,All Students,k12,225,82.9,78.0,73.6,49.6,ELA proficiency,48.0,8.0,25.0,44.0,
+2021-22,ela,All Students,all,649,97.9,89.8,85.6,51.8,ELA proficiency,157.0,54.0,94.0,145.0,159.0
+2021-22,ela,Economically Disadvantaged,k12,215,76.5,57.6,50.0,33.3,ELA proficiency,120.0,3.0,104.0,49.0,
+2021-22,ela,Economically Disadvantaged,all,546,96.2,75.0,63.2,33.7,ELA proficiency,310.0,22.0,274.0,148.0,177.0
+2021-22,ela,Students with Disabilities,k12,173,50.4,38.4,34.9,18.7,ELA proficiency,66.0,15.0,54.0,37.0,
+2021-22,ela,Students with Disabilities,all,462,85.0,60.0,52.3,20.8,ELA proficiency,211.0,63.0,189.0,146.0,254.0
+2021-22,elaMath,All Students,k12,213,81.4,73.1,69.2,43.8,ELA + Math proficiency (average),50.0,4.0,18.0,31.0,
+2021-22,elaMath,All Students,all,610,92.8,84.5,81.4,46.0,ELA + Math proficiency (average),163.0,40.0,65.0,104.0,183.0
+2021-22,elaMath,Economically Disadvantaged,k12,197,61.8,48.3,41.4,27.5,ELA + Math proficiency (average),128.0,2.0,88.0,37.0,
+2021-22,elaMath,Economically Disadvantaged,all,481,90.4,61.4,54.8,28.8,ELA + Math proficiency (average),327.0,16.0,237.0,107.0,39.0
+2021-22,elaMath,Students with Disabilities,k12,151,44.1,36.4,31.5,18.4,ELA + Math proficiency (average),65.0,10.0,36.0,28.0,
+2021-22,elaMath,Students with Disabilities,all,379,72.2,52.8,45.5,21.5,ELA + Math proficiency (average),208.0,47.0,141.0,111.0,216.0
+2021-22,grad4,All Students,k12,270,100.0,98.5,97.9,93.1,4-year graduation rate,148.0,53.0,166.0,71.0,41.0
+2021-22,grad4,All Students,all,313,100.0,99.0,98.5,93.6,4-year graduation rate,182.0,75.0,201.0,95.0,60.0
+2021-22,grad4,Economically Disadvantaged,k12,251,100.0,100.0,96.9,88.2,4-year graduation rate,206.0,,251.0,134.0,102.0
+2021-22,grad4,Economically Disadvantaged,all,291,100.0,100.0,100.0,88.6,4-year graduation rate,244.0,,289.0,166.0,134.0
+2021-22,grad4,Students with Disabilities,k12,269,100.0,95.3,93.8,82.4,4-year graduation rate,189.0,179.0,215.0,127.0,77.0
+2021-22,grad4,Students with Disabilities,all,299,100.0,100.0,95.7,83.6,4-year graduation rate,216.0,206.0,243.0,153.0,101.0
+2021-22,grad5,All Students,k12,270,100.0,99.1,98.6,94.8,5-year graduation rate,152.0,68.0,23.0,68.0,32.0
+2021-22,grad5,All Students,all,313,100.0,99.6,99.3,95.2,5-year graduation rate,187.0,92.0,41.0,92.0,51.0
+2021-22,grad5,Economically Disadvantaged,k12,251,100.0,100.0,98.4,90.9,5-year graduation rate,203.0,,121.0,68.0,88.0
+2021-22,grad5,Economically Disadvantaged,all,291,100.0,100.0,100.0,91.9,5-year graduation rate,241.0,,155.0,100.0,121.0
+2021-22,grad5,Students with Disabilities,k12,269,100.0,97.8,96.3,86.7,5-year graduation rate,194.0,189.0,69.0,105.0,63.0
+2021-22,grad5,Students with Disabilities,all,298,100.0,100.0,98.3,87.5,5-year graduation rate,221.0,216.0,91.0,131.0,85.0
+2021-22,math,All Students,k12,213,79.9,69.0,65.6,35.1,Math proficiency,51.0,4.0,12.0,25.0,
+2021-22,math,All Students,all,610,89.4,81.6,78.2,38.2,Math proficiency,170.0,33.0,49.0,83.0,211.0
+2021-22,math,Economically Disadvantaged,k12,197,51.1,39.0,33.7,20.6,Math proficiency,134.0,2.0,72.0,28.0,
+2021-22,math,Economically Disadvantaged,all,482,84.6,54.0,47.4,21.2,Math proficiency,342.0,15.0,191.0,84.0,9.0
+2021-22,math,Students with Disabilities,k12,152,42.8,34.4,27.8,16.7,Math proficiency,59.0,8.0,24.0,21.0,
+2021-22,math,Students with Disabilities,all,390,66.7,48.5,42.9,18.6,Math proficiency,197.0,42.0,97.0,87.0,181.0
+2021-22,math58,All Students,k12,217,74.9,67.1,60.8,32.1,Grades 5-8 Math proficiency,68.0,11.0,6.0,29.0,
+2021-22,math58,All Students,all,562,87.0,78.3,72.0,33.6,Grades 5-8 Math proficiency,196.0,36.0,28.0,85.0,
+2021-22,math58,Economically Disadvantaged,k12,152,51.3,32.2,28.7,18.4,Grades 5-8 Math proficiency,72.0,,44.0,24.0,
+2021-22,math58,Economically Disadvantaged,all,297,64.0,41.5,36.2,18.9,Grades 5-8 Math proficiency,143.0,,93.0,53.0,
+2021-22,math58,Students with Disabilities,k12,128,46.1,29.8,25.5,17.3,Grades 5-8 Math proficiency,61.0,,12.0,28.0,
+2021-22,math58,Students with Disabilities,all,272,55.8,40.7,34.8,18.1,Grades 5-8 Math proficiency,144.0,,43.0,71.0,
+2021-22,satTotal,All Students,k12,269,1373.0,1276.0,1235.0,1071.0,SAT average (Math + Reading & Writing),32.0,6.0,3.0,18.0,31.0
+2021-22,satTotal,All Students,all,308,1405.0,1295.0,1251.0,1067.0,SAT average (Math + Reading & Writing),38.0,9.0,5.0,24.0,37.0
+2021-22,science,All Students,k12,225,67.3,53.3,45.3,19.7,Science proficiency,34.0,2.0,3.0,27.0,
+2021-22,science,All Students,all,637,93.0,63.5,58.0,21.0,Science proficiency,99.0,16.0,17.0,88.0,44.0
+2021-22,science,Economically Disadvantaged,k12,192,50.0,20.5,17.0,9.7,Science proficiency,66.0,,122.0,82.0,
+2021-22,science,Economically Disadvantaged,all,409,84.0,31.0,24.0,9.3,Science proficiency,148.0,,243.0,172.0,
+2021-22,science,Students with Disabilities,k12,218,31.0,18.7,15.0,5.3,Science proficiency,61.0,2.0,7.0,32.0,
+2021-22,science,Students with Disabilities,all,455,64.0,27.0,21.0,6.0,Science proficiency,141.0,11.0,21.0,81.0,120.0
+2022-23,absenteeism,All Students,k12,225,3.5,5.7,7.0,14.5,Chronic absenteeism,29.0,27.0,46.0,33.0,
+2022-23,absenteeism,All Students,all,647,0.0,3.2,3.9,13.8,Chronic absenteeism,114.0,103.0,164.0,124.0,183.0
+2022-23,absenteeism,Economically Disadvantaged,k12,220,2.2,11.2,12.4,21.3,Chronic absenteeism,69.0,46.0,151.0,65.0,
+2022-23,absenteeism,Economically Disadvantaged,all,594,0.0,3.7,6.7,21.2,Chronic absenteeism,197.0,153.0,404.0,189.0,359.0
+2022-23,absenteeism,Students with Disabilities,k12,225,6.6,8.9,12.1,21.1,Chronic absenteeism,65.0,27.0,83.0,33.0,
+2022-23,absenteeism,Students with Disabilities,all,638,0.0,2.8,6.1,19.9,Chronic absenteeism,236.0,135.0,287.0,161.0,407.0
+2022-23,algebra1,All Students,k12,209,89.0,73.0,64.0,33.0,Algebra I proficiency,34.0,7.0,11.0,38.0,
+2022-23,algebra1,All Students,all,477,100.0,100.0,100.0,49.0,Algebra I proficiency,200.0,142.0,151.0,207.0,290.0
+2022-23,algebra1,Economically Disadvantaged,k12,159,57.0,37.0,31.0,19.0,Algebra I proficiency,42.0,,7.0,17.0,
+2022-23,algebra1,Economically Disadvantaged,all,234,94.0,71.0,48.0,20.0,Algebra I proficiency,78.0,,26.0,39.0,
+2022-23,algebra1,Students with Disabilities,k12,74,56.0,26.0,22.0,16.0,Algebra I proficiency,,18.0,4.0,,
+2022-23,algebra1,Students with Disabilities,all,100,70.0,28.0,25.0,16.0,Algebra I proficiency,,26.0,5.0,,
+2022-23,apCourse,All Students,k12,270,86.9,69.5,64.9,32.5,Students in AP/IB courses,61.0,30.0,15.0,55.0,57.0
+2022-23,apCourse,All Students,all,314,99.5,73.3,67.0,30.9,Students in AP/IB courses,68.0,35.0,20.0,62.0,64.0
+2022-23,apCourse,Economically Disadvantaged,k12,252,74.1,54.3,43.0,19.9,Students in AP/IB courses,121.0,149.0,68.0,44.0,204.0
+2022-23,apCourse,Economically Disadvantaged,all,296,98.6,57.1,48.4,19.0,Students in AP/IB courses,137.0,168.0,82.0,56.0,229.0
+2022-23,apCourse,Students with Disabilities,k12,270,34.7,23.3,16.7,3.8,Students in AP/IB courses,118.0,49.0,54.0,70.0,84.0
+2022-23,apCourse,Students with Disabilities,all,310,95.5,24.8,18.1,3.6,Students in AP/IB courses,134.0,54.0,60.0,77.0,93.0
+2022-23,apScore3,All Students,k12,210,66.8,54.3,49.8,22.2,Students scoring 3+ on an AP exam,41.0,10.0,8.0,43.0,40.0
+2022-23,apScore3,All Students,all,225,66.8,55.7,51.1,22.5,Students scoring 3+ on an AP exam,45.0,12.0,9.0,47.0,44.0
+2022-23,dualEnroll,All Students,k12,270,97.7,76.3,67.0,17.0,Students in dual-enrollment courses,204.0,184.0,211.0,166.0,155.0
+2022-23,dualEnroll,All Students,all,314,97.7,79.1,69.9,17.1,Students in dual-enrollment courses,237.0,215.0,244.0,195.0,182.0
+2022-23,dualEnroll,Economically Disadvantaged,k12,252,100.0,65.9,51.9,10.4,Students in dual-enrollment courses,179.0,188.0,188.0,174.0,188.0
+2022-23,dualEnroll,Economically Disadvantaged,all,296,100.0,68.0,59.6,11.1,Students in dual-enrollment courses,212.0,221.0,221.0,207.0,221.0
+2022-23,dualEnroll,Students with Disabilities,k12,270,85.0,54.8,33.7,4.7,Students in dual-enrollment courses,182.0,146.0,186.0,174.0,105.0
+2022-23,dualEnroll,Students with Disabilities,all,310,85.0,54.8,41.3,5.0,Students in dual-enrollment courses,209.0,172.0,213.0,201.0,124.0
+2022-23,ela,All Students,k12,225,85.0,79.5,76.1,50.8,ELA proficiency,50.0,9.0,12.0,47.0,
+2022-23,ela,All Students,all,648,98.2,91.6,86.3,54.2,ELA proficiency,161.0,55.0,61.0,156.0,130.0
+2022-23,ela,Economically Disadvantaged,k12,218,77.4,58.7,53.4,35.3,ELA proficiency,113.0,11.0,47.0,53.0,
+2022-23,ela,Economically Disadvantaged,all,565,100.0,77.8,68.8,36.4,ELA proficiency,306.0,53.0,162.0,172.0,
+2022-23,ela,Students with Disabilities,k12,178,53.3,42.6,35.4,20.7,ELA proficiency,76.0,32.0,20.0,23.0,
+2022-23,ela,Students with Disabilities,all,486,91.7,61.0,52.9,22.7,ELA proficiency,245.0,128.0,89.0,106.0,222.0
+2022-23,elaMath,All Students,k12,217,83.2,75.0,71.1,44.6,ELA + Math proficiency (average),50.0,5.0,7.0,33.0,
+2022-23,elaMath,All Students,all,619,94.5,86.3,82.2,47.7,ELA + Math proficiency (average),159.0,37.0,43.0,113.0,168.0
+2022-23,elaMath,Economically Disadvantaged,k12,205,66.8,52.5,42.5,28.8,ELA + Math proficiency (average),105.0,3.0,49.0,28.0,
+2022-23,elaMath,Economically Disadvantaged,all,522,94.5,62.5,58.4,30.6,ELA + Math proficiency (average),299.0,18.0,153.0,102.0,
+2022-23,elaMath,Students with Disabilities,k12,161,50.2,38.5,32.6,20.2,ELA + Math proficiency (average),72.0,23.0,16.0,21.0,
+2022-23,elaMath,Students with Disabilities,all,397,76.0,57.0,46.7,22.9,ELA + Math proficiency (average),221.0,94.0,77.0,88.0,287.0
+2022-23,grad4,All Students,k12,270,100.0,98.5,97.8,93.2,4-year graduation rate,129.0,123.0,44.0,81.0,17.0
+2022-23,grad4,All Students,all,314,100.0,99.7,98.8,93.7,4-year graduation rate,155.0,149.0,64.0,105.0,33.0
+2022-23,grad4,Economically Disadvantaged,k12,252,100.0,97.7,96.0,88.6,4-year graduation rate,180.0,241.0,93.0,191.0,31.0
+2022-23,grad4,Economically Disadvantaged,all,293,100.0,100.0,97.7,89.1,4-year graduation rate,218.0,280.0,124.0,229.0,49.0
+2022-23,grad4,Students with Disabilities,k12,268,100.0,95.2,93.1,82.6,4-year graduation rate,237.0,227.0,142.0,103.0,27.0
+2022-23,grad4,Students with Disabilities,all,298,100.0,100.0,96.6,83.3,4-year graduation rate,263.0,252.0,166.0,126.0,48.0
+2022-23,grad5,All Students,k12,270,100.0,99.1,98.3,94.9,5-year graduation rate,87.0,148.0,17.0,65.0,22.0
+2022-23,grad5,All Students,all,312,100.0,100.0,99.2,95.1,5-year graduation rate,111.0,178.0,34.0,89.0,40.0
+2022-23,grad5,Economically Disadvantaged,k12,252,100.0,100.0,97.6,90.9,5-year graduation rate,122.0,230.0,1.0,135.0,58.0
+2022-23,grad5,Economically Disadvantaged,all,292,100.0,100.0,98.8,91.8,5-year graduation rate,154.0,269.0,1.0,169.0,80.0
+2022-23,grad5,Students with Disabilities,k12,268,100.0,96.6,95.1,86.4,5-year graduation rate,168.0,239.0,51.0,104.0,29.0
+2022-23,grad5,Students with Disabilities,all,296,100.0,100.0,97.6,86.7,5-year graduation rate,192.0,265.0,73.0,126.0,48.0
+2022-23,math,All Students,k12,217,81.6,70.8,67.6,36.9,Math proficiency,50.0,4.0,6.0,28.0,
+2022-23,math,All Students,all,619,91.5,83.2,78.1,39.6,Math proficiency,161.0,32.0,34.0,93.0,203.0
+2022-23,math,Economically Disadvantaged,k12,206,59.5,41.8,36.5,22.0,Math proficiency,106.0,1.0,44.0,17.0,
+2022-23,math,Economically Disadvantaged,all,524,88.9,58.3,52.5,23.3,Math proficiency,293.0,8.0,141.0,68.0,76.0
+2022-23,math,Students with Disabilities,k12,165,47.2,33.7,31.2,17.3,Math proficiency,62.0,20.0,14.0,18.0,
+2022-23,math,Students with Disabilities,all,415,76.9,52.2,42.9,19.9,Math proficiency,208.0,75.0,67.0,72.0,398.0
+2022-23,math58,All Students,k12,218,76.1,68.7,62.5,33.7,Grades 5-8 Math proficiency,79.0,5.0,4.0,33.0,
+2022-23,math58,All Students,all,563,86.4,79.2,74.5,36.0,Grades 5-8 Math proficiency,219.0,29.0,28.0,92.0,
+2022-23,math58,Economically Disadvantaged,k12,161,50.0,33.6,30.1,18.9,Grades 5-8 Math proficiency,98.0,,36.0,15.0,
+2022-23,math58,Economically Disadvantaged,all,323,58.6,41.5,37.8,20.0,Grades 5-8 Math proficiency,210.0,,89.0,38.0,
+2022-23,math58,Students with Disabilities,k12,133,45.0,28.9,26.9,18.5,Grades 5-8 Math proficiency,77.0,,20.0,10.0,
+2022-23,math58,Students with Disabilities,all,291,62.6,45.0,37.8,19.9,Grades 5-8 Math proficiency,178.0,,65.0,44.0,
+2022-23,msgpEla,All Students,k12,225,69.0,61.0,59.0,49.0,ELA growth (mSGP),22.0,7.0,2.0,67.0,
+2022-23,msgpEla,All Students,all,592,81.5,72.0,69.0,51.0,ELA growth (mSGP),112.0,69.0,30.0,221.0,
+2022-23,msgpEla,Economically Disadvantaged,k12,220,73.0,56.5,55.0,45.0,ELA growth (mSGP),84.0,149.0,15.0,95.0,
+2022-23,msgpEla,Economically Disadvantaged,all,503,87.5,70.0,65.5,46.5,ELA growth (mSGP),234.0,359.0,82.0,251.0,
+2022-23,msgpEla,Students with Disabilities,k12,225,60.5,52.0,50.0,40.0,ELA growth (mSGP),31.0,31.0,2.0,55.0,
+2022-23,msgpEla,Students with Disabilities,all,555,79.0,69.0,66.0,42.0,ELA growth (mSGP),154.0,154.0,37.0,197.0,
+2022-23,msgpMath,All Students,k12,225,69.0,60.0,58.0,50.0,Math growth (mSGP),53.0,5.0,1.0,30.0,
+2022-23,msgpMath,All Students,all,592,84.5,71.0,66.0,51.0,Math growth (mSGP),186.0,57.0,14.0,137.0,
+2022-23,msgpMath,Economically Disadvantaged,k12,219,74.0,60.0,57.0,47.0,Math growth (mSGP),36.0,1.0,3.0,23.0,
+2022-23,msgpMath,Economically Disadvantaged,all,494,88.0,69.0,64.0,47.0,Math growth (mSGP),131.0,5.0,13.0,93.0,
+2022-23,msgpMath,Students with Disabilities,k12,225,68.0,53.0,51.0,42.0,Math growth (mSGP),37.0,21.0,1.0,15.0,
+2022-23,msgpMath,Students with Disabilities,all,551,91.5,68.0,63.0,43.0,Math growth (mSGP),152.0,108.0,10.0,92.0,
+2022-23,satTotal,All Students,k12,269,1375.0,1258.0,1236.0,1073.0,SAT average (Math + Reading & Writing),22.0,6.0,3.0,27.0,25.0
+2022-23,satTotal,All Students,all,310,1417.0,1289.0,1252.0,1067.0,SAT average (Math + Reading & Writing),29.0,10.0,6.0,34.0,32.0
+2022-23,science,All Students,k12,225,68.7,54.7,48.3,21.0,Science proficiency,35.0,3.0,4.0,31.0,
+2022-23,science,All Students,all,639,92.0,68.0,58.7,24.0,Science proficiency,109.0,15.0,16.0,98.0,126.0
+2022-23,science,Economically Disadvantaged,k12,199,50.0,22.5,19.0,10.0,Science proficiency,51.0,,12.0,23.0,
+2022-23,science,Economically Disadvantaged,all,437,91.0,36.0,28.0,10.5,Science proficiency,123.0,,32.0,60.0,
+2022-23,science,Students with Disabilities,k12,219,31.3,21.0,16.3,6.3,Science proficiency,34.0,2.0,22.0,24.0,
+2022-23,science,Students with Disabilities,all,457,72.0,35.0,27.0,7.0,Science proficiency,84.0,15.0,63.0,65.0,88.0
+2023-24,absenteeism,All Students,k12,225,2.3,4.9,6.5,12.9,Chronic absenteeism,38.0,24.0,16.0,32.0,
+2023-24,absenteeism,All Students,all,649,0.0,2.7,3.4,11.6,Chronic absenteeism,158.0,115.0,72.0,142.0,212.0
+2023-24,absenteeism,Economically Disadvantaged,k12,223,5.1,10.9,11.7,20.2,Chronic absenteeism,91.0,112.0,93.0,77.0,
+2023-24,absenteeism,Economically Disadvantaged,all,605,0.0,3.2,5.7,19.8,Chronic absenteeism,259.0,320.0,262.0,229.0,354.0
+2023-24,absenteeism,Students with Disabilities,k12,225,3.9,8.7,10.4,19.5,Chronic absenteeism,53.0,37.0,50.0,26.0,
+2023-24,absenteeism,Students with Disabilities,all,643,0.0,1.3,4.4,17.5,Chronic absenteeism,234.0,189.0,223.0,130.0,435.0
+2023-24,algebra1,All Students,k12,213,98.0,78.0,69.0,36.0,Algebra I proficiency,41.0,10.0,5.0,24.0,
+2023-24,algebra1,All Students,all,496,100.0,100.0,100.0,56.0,Algebra I proficiency,220.0,161.0,145.0,196.0,224.0
+2023-24,algebra1,Economically Disadvantaged,k12,179,70.0,45.0,38.0,22.0,Algebra I proficiency,49.0,,30.0,18.0,
+2023-24,algebra1,Economically Disadvantaged,all,269,100.0,82.0,62.0,22.0,Algebra I proficiency,89.0,,67.0,50.0,
+2023-24,algebra1,Students with Disabilities,k12,87,63.0,34.0,27.0,19.0,Algebra I proficiency,46.0,11.0,13.0,17.0,
+2023-24,algebra1,Students with Disabilities,all,119,77.0,46.0,29.0,17.0,Algebra I proficiency,55.0,15.0,17.0,22.0,31.0
+2023-24,apCourse,All Students,k12,272,87.7,71.0,67.3,34.3,Students in AP/IB courses,83.0,32.0,16.0,55.0,63.0
+2023-24,apCourse,All Students,all,317,91.5,75.1,69.1,33.5,Students in AP/IB courses,93.0,37.0,21.0,63.0,71.0
+2023-24,apCourse,Economically Disadvantaged,k12,257,62.2,50.0,45.3,22.0,Students in AP/IB courses,189.0,28.0,73.0,108.0,127.0
+2023-24,apCourse,Economically Disadvantaged,all,302,90.5,55.7,48.6,21.7,Students in AP/IB courses,212.0,38.0,87.0,125.0,144.0
+2023-24,apCourse,Students with Disabilities,k12,270,37.6,27.8,19.6,3.9,Students in AP/IB courses,156.0,51.0,44.0,134.0,98.0
+2023-24,apCourse,Students with Disabilities,all,310,78.9,29.8,21.1,3.8,Students in AP/IB courses,174.0,57.0,50.0,150.0,109.0
+2023-24,apScore3,All Students,k12,221,71.9,58.2,52.4,24.0,Students scoring 3+ on an AP exam,69.0,10.0,5.0,41.0,53.0
+2023-24,apScore3,All Students,all,237,71.9,60.6,54.2,24.0,Students scoring 3+ on an AP exam,75.0,12.0,7.0,45.0,59.0
+2023-24,dualEnroll,All Students,k12,272,97.8,79.0,70.5,19.1,Students in dual-enrollment courses,217.0,214.0,228.0,149.0,181.0
+2023-24,dualEnroll,All Students,all,317,100.0,80.9,75.7,21.1,Students in dual-enrollment courses,252.0,249.0,263.0,179.0,212.0
+2023-24,dualEnroll,Economically Disadvantaged,k12,257,100.0,70.0,60.0,14.5,Students in dual-enrollment courses,205.0,166.0,209.0,174.0,209.0
+2023-24,dualEnroll,Economically Disadvantaged,all,302,100.0,77.2,64.2,16.6,Students in dual-enrollment courses,240.0,200.0,244.0,208.0,244.0
+2023-24,dualEnroll,Students with Disabilities,k12,270,97.6,52.1,39.4,5.3,Students in dual-enrollment courses,201.0,170.0,205.0,181.0,127.0
+2023-24,dualEnroll,Students with Disabilities,all,310,100.0,60.1,47.4,5.6,Students in dual-enrollment courses,229.0,197.0,233.0,208.0,151.0
+2023-24,ela,All Students,k12,224,88.5,81.3,75.9,51.5,ELA proficiency,47.0,5.0,9.0,40.0,
+2023-24,ela,All Students,all,645,98.1,92.0,87.8,55.9,ELA proficiency,156.0,33.0,44.0,144.0,51.0
+2023-24,ela,Economically Disadvantaged,k12,219,75.0,58.1,54.2,36.0,ELA proficiency,80.0,16.0,34.0,59.0,
+2023-24,ela,Economically Disadvantaged,all,565,100.0,80.0,70.0,37.5,ELA proficiency,231.0,67.0,123.0,180.0,
+2023-24,ela,Students with Disabilities,k12,183,51.6,42.0,37.3,21.7,ELA proficiency,61.0,10.0,25.0,40.0,
+2023-24,ela,Students with Disabilities,all,504,82.4,70.0,55.9,23.7,ELA proficiency,212.0,57.0,102.0,145.0,149.0
+2023-24,elaMath,All Students,k12,220,83.7,77.6,71.8,45.1,ELA + Math proficiency (average),48.0,7.0,9.0,30.0,
+2023-24,elaMath,All Students,all,632,95.3,86.8,82.8,48.6,ELA + Math proficiency (average),156.0,35.0,40.0,103.0,67.0
+2023-24,elaMath,Economically Disadvantaged,k12,205,68.0,50.3,46.2,30.5,ELA + Math proficiency (average),80.0,6.0,46.0,34.0,
+2023-24,elaMath,Economically Disadvantaged,all,532,93.2,68.0,58.0,32.0,ELA + Math proficiency (average),233.0,32.0,148.0,122.0,
+2023-24,elaMath,Students with Disabilities,k12,156,44.7,39.3,33.9,21.3,ELA + Math proficiency (average),57.0,12.0,22.0,28.0,
+2023-24,elaMath,Students with Disabilities,all,432,81.8,57.5,51.4,23.0,ELA + Math proficiency (average),197.0,62.0,92.0,115.0,143.0
+2023-24,grad4,All Students,k12,272,100.0,98.5,98.0,93.8,4-year graduation rate,54.0,29.0,29.0,134.0,38.0
+2023-24,grad4,All Students,all,317,100.0,99.4,98.7,94.1,4-year graduation rate,78.0,49.0,49.0,164.0,59.0
+2023-24,grad4,Economically Disadvantaged,k12,254,100.0,100.0,97.9,89.1,4-year graduation rate,102.0,,150.0,201.0,106.0
+2023-24,grad4,Economically Disadvantaged,all,297,100.0,100.0,100.0,89.7,4-year graduation rate,134.0,,185.0,242.0,139.0
+2023-24,grad4,Students with Disabilities,k12,270,100.0,96.3,94.1,83.5,4-year graduation rate,77.0,80.0,80.0,104.0,55.0
+2023-24,grad4,Students with Disabilities,all,302,100.0,100.0,98.9,83.9,4-year graduation rate,102.0,105.0,105.0,130.0,78.0
+2023-24,grad5,All Students,k12,272,100.0,99.1,98.9,95.3,5-year graduation rate,44.0,61.0,8.0,133.0,49.0
+2023-24,grad5,All Students,all,317,100.0,100.0,99.2,95.6,5-year graduation rate,66.0,84.0,19.0,164.0,71.0
+2023-24,grad5,Economically Disadvantaged,k12,254,100.0,100.0,100.0,92.2,5-year graduation rate,77.0,,1.0,185.0,97.0
+2023-24,grad5,Economically Disadvantaged,all,297,100.0,100.0,100.0,92.6,5-year graduation rate,108.0,,1.0,225.0,130.0
+2023-24,grad5,Students with Disabilities,k12,270,100.0,100.0,95.8,87.5,5-year graduation rate,85.0,130.0,34.0,128.0,72.0
+2023-24,grad5,Students with Disabilities,all,303,100.0,100.0,100.0,88.0,5-year graduation rate,111.0,159.0,54.0,157.0,95.0
+2023-24,math,All Students,k12,220,82.4,74.3,69.0,38.2,Math proficiency,50.0,10.0,6.0,27.0,
+2023-24,math,All Students,all,632,92.5,85.3,78.7,41.5,Math proficiency,159.0,41.0,31.0,89.0,84.0
+2023-24,math,Economically Disadvantaged,k12,205,68.0,43.8,37.2,23.4,Math proficiency,84.0,3.0,66.0,21.0,
+2023-24,math,Economically Disadvantaged,all,535,90.7,63.3,52.9,25.8,Math proficiency,253.0,26.0,205.0,86.0,
+2023-24,math,Students with Disabilities,k12,159,43.4,35.8,31.1,18.6,Math proficiency,57.0,14.0,18.0,23.0,
+2023-24,math,Students with Disabilities,all,455,81.3,54.2,47.2,20.4,Math proficiency,193.0,68.0,82.0,94.0,147.0
+2023-24,math58,All Students,k12,220,79.9,71.7,65.6,35.3,Grades 5-8 Math proficiency,76.0,10.0,6.0,34.0,
+2023-24,math58,All Students,all,575,94.0,84.4,76.3,37.6,Grades 5-8 Math proficiency,213.0,38.0,32.0,104.0,
+2023-24,math58,Economically Disadvantaged,k12,162,56.7,36.0,31.1,20.7,Grades 5-8 Math proficiency,101.0,,61.0,36.0,
+2023-24,math58,Economically Disadvantaged,all,336,80.5,46.0,40.0,21.6,Grades 5-8 Math proficiency,220.0,,144.0,81.0,
+2023-24,math58,Students with Disabilities,k12,145,47.5,31.5,26.8,18.9,Grades 5-8 Math proficiency,98.0,,19.0,44.0,
+2023-24,math58,Students with Disabilities,all,311,86.8,47.5,38.0,19.7,Grades 5-8 Math proficiency,229.0,,65.0,111.0,
+2023-24,msgpEla,All Students,k12,225,74.0,60.0,58.5,50.0,ELA growth (mSGP),32.0,3.0,1.0,84.0,
+2023-24,msgpEla,All Students,all,593,79.0,71.0,67.0,51.0,ELA growth (mSGP),141.0,18.0,3.0,274.0,
+2023-24,msgpEla,Economically Disadvantaged,k12,219,68.0,59.5,56.0,47.0,ELA growth (mSGP),97.0,1.0,2.0,141.0,
+2023-24,msgpEla,Economically Disadvantaged,all,513,79.5,70.0,66.5,47.0,ELA growth (mSGP),257.0,14.0,17.0,339.0,
+2023-24,msgpEla,Students with Disabilities,k12,225,67.0,55.0,52.0,41.5,ELA growth (mSGP),28.0,7.0,2.0,160.0,
+2023-24,msgpEla,Students with Disabilities,all,556,94.0,68.0,65.0,43.0,ELA growth (mSGP),141.0,52.0,16.0,393.0,
+2023-24,msgpMath,All Students,k12,225,69.0,62.5,59.0,50.0,Math growth (mSGP),73.0,31.0,2.0,118.0,
+2023-24,msgpMath,All Students,all,593,94.0,72.0,69.0,51.0,Math growth (mSGP),245.0,146.0,27.0,339.0,
+2023-24,msgpMath,Economically Disadvantaged,k12,219,75.5,60.0,57.5,47.5,Math growth (mSGP),168.0,13.0,41.0,146.0,
+2023-24,msgpMath,Economically Disadvantaged,all,504,96.0,72.0,68.0,48.5,Math growth (mSGP),380.0,67.0,150.0,342.0,
+2023-24,msgpMath,Students with Disabilities,k12,225,71.0,58.5,55.0,44.5,Math growth (mSGP),128.0,73.0,3.0,120.0,
+2023-24,msgpMath,Students with Disabilities,all,549,88.0,71.0,65.5,45.0,Math growth (mSGP),320.0,212.0,24.0,295.0,
+2023-24,satTotal,All Students,k12,270,1382.0,1265.0,1242.0,1072.0,SAT average (Math + Reading & Writing),24.0,8.0,3.0,23.0,33.0
+2023-24,satTotal,All Students,all,312,1386.0,1295.0,1258.0,1067.0,SAT average (Math + Reading & Writing),32.0,12.0,7.0,31.0,41.0
+2023-24,science,All Students,k12,225,68.0,53.7,49.3,21.0,Science proficiency,38.0,4.0,2.0,27.0,
+2023-24,science,All Students,all,636,88.0,68.0,60.0,24.0,Science proficiency,119.0,25.0,13.0,82.0,94.0
+2023-24,science,Economically Disadvantaged,k12,203,30.0,22.0,19.3,10.3,Science proficiency,60.0,,29.0,9.0,
+2023-24,science,Economically Disadvantaged,all,458,73.0,39.0,27.0,10.7,Science proficiency,159.0,,82.0,38.0,247.0
+2023-24,science,Students with Disabilities,k12,220,29.0,19.7,16.3,6.0,Science proficiency,43.0,5.0,22.0,43.0,
+2023-24,science,Students with Disabilities,all,456,55.0,28.0,23.0,6.3,Science proficiency,106.0,18.0,57.0,106.0,81.0
+2024-25,absenteeism,All Students,k12,226,3.0,4.3,6.0,12.5,Chronic absenteeism,50.0,26.0,15.0,40.0,
+2024-25,absenteeism,All Students,all,648,1.2,2.9,3.5,11.6,Chronic absenteeism,180.0,102.0,62.0,158.0,127.0
+2024-25,absenteeism,Economically Disadvantaged,k12,223,4.4,7.4,10.1,18.6,Chronic absenteeism,88.0,34.0,53.0,65.0,
+2024-25,absenteeism,Economically Disadvantaged,all,609,0.0,4.5,5.7,18.1,Chronic absenteeism,280.0,135.0,198.0,227.0,523.0
+2024-25,absenteeism,Students with Disabilities,k12,226,6.3,8.4,10.1,19.1,Chronic absenteeism,67.0,41.0,39.0,41.0,
+2024-25,absenteeism,Students with Disabilities,all,644,0.0,2.9,4.9,17.1,Chronic absenteeism,258.0,186.0,182.0,186.0,339.0
+2024-25,algebra1,All Students,k12,216,100.0,74.1,70.8,34.4,Algebra I proficiency,46.0,7.0,3.0,21.0,
+2024-25,algebra1,All Students,all,495,100.0,100.0,100.0,51.7,Algebra I proficiency,226.0,145.0,131.0,178.0,184.0
+2024-25,algebra1,Economically Disadvantaged,k12,179,70.0,46.5,35.2,20.6,Algebra I proficiency,77.0,,26.0,28.0,
+2024-25,algebra1,Economically Disadvantaged,all,284,100.0,90.0,70.0,22.0,Algebra I proficiency,141.0,,64.0,66.0,
+2024-25,algebra1,Students with Disabilities,k12,89,51.1,31.6,24.2,17.4,Algebra I proficiency,84.0,37.0,32.0,34.0,
+2024-25,algebra1,Students with Disabilities,all,117,51.1,32.8,27.4,17.2,Algebra I proficiency,111.0,47.0,40.0,44.0,
+2024-25,apCourse,All Students,k12,272,96.0,75.0,69.6,36.2,Students in AP/IB courses,77.0,21.0,28.0,71.0,68.0
+2024-25,apCourse,All Students,all,320,97.6,81.3,70.9,34.0,Students in AP/IB courses,87.0,27.0,34.0,80.0,77.0
+2024-25,apCourse,Economically Disadvantaged,k12,263,95.8,57.9,50.0,24.5,Students in AP/IB courses,172.0,37.0,61.0,130.0,184.0
+2024-25,apCourse,Economically Disadvantaged,all,311,97.7,64.3,53.6,23.6,Students in AP/IB courses,195.0,49.0,74.0,148.0,207.0
+2024-25,apCourse,Students with Disabilities,k12,271,82.6,29.5,21.5,4.5,Students in AP/IB courses,146.0,50.0,148.0,68.0,111.0
+2024-25,apCourse,Students with Disabilities,all,310,95.5,34.1,23.1,4.4,Students in AP/IB courses,162.0,57.0,165.0,77.0,127.0
+2024-25,apScore3,All Students,k12,236,76.1,61.9,56.1,26.3,Students scoring 3+ on an AP exam,66.0,6.0,17.0,60.0,44.0
+2024-25,apScore3,All Students,all,257,76.1,62.6,58.2,26.4,Students scoring 3+ on an AP exam,73.0,7.0,19.0,65.0,49.0
+2024-25,dualEnroll,All Students,k12,272,100.0,80.5,74.2,22.7,Students in dual-enrollment courses,199.0,197.0,234.0,183.0,185.0
+2024-25,dualEnroll,All Students,all,320,100.0,83.6,75.8,24.4,Students in dual-enrollment courses,237.0,235.0,274.0,217.0,219.0
+2024-25,dualEnroll,Economically Disadvantaged,k12,263,100.0,76.1,67.5,19.4,Students in dual-enrollment courses,219.0,129.0,221.0,201.0,221.0
+2024-25,dualEnroll,Economically Disadvantaged,all,311,100.0,84.7,69.4,20.0,Students in dual-enrollment courses,259.0,156.0,261.0,241.0,261.0
+2024-25,dualEnroll,Students with Disabilities,k12,271,89.5,61.8,52.7,7.4,Students in dual-enrollment courses,208.0,182.0,208.0,202.0,166.0
+2024-25,dualEnroll,Students with Disabilities,all,310,100.0,63.6,54.3,7.8,Students in dual-enrollment courses,237.0,211.0,237.0,231.0,194.0
+2024-25,ela,All Students,k12,225,87.6,80.5,76.9,53.8,ELA proficiency,48.0,7.0,10.0,53.0,
+2024-25,ela,All Students,all,645,97.0,91.4,87.5,56.4,ELA proficiency,153.0,44.0,57.0,169.0,171.0
+2024-25,ela,Economically Disadvantaged,k12,220,78.4,58.9,54.3,38.6,ELA proficiency,86.0,58.0,30.0,69.0,
+2024-25,ela,Economically Disadvantaged,all,584,98.7,82.2,70.5,40.6,ELA proficiency,271.0,200.0,133.0,227.0,271.0
+2024-25,ela,Students with Disabilities,k12,188,53.6,43.2,37.8,20.9,ELA proficiency,53.0,27.0,41.0,40.0,
+2024-25,ela,Students with Disabilities,all,524,81.4,63.2,54.7,22.4,ELA proficiency,175.0,96.0,149.0,144.0,156.0
+2024-25,elaMath,All Students,k12,223,85.2,79.0,73.2,47.4,ELA + Math proficiency (average),52.0,4.0,10.0,38.0,
+2024-25,elaMath,All Students,all,632,95.0,87.5,84.3,50.5,ELA + Math proficiency (average),155.0,32.0,41.0,125.0,192.0
+2024-25,elaMath,Economically Disadvantaged,k12,217,61.0,51.6,47.2,32.5,ELA + Math proficiency (average),100.0,26.0,32.0,44.0,
+2024-25,elaMath,Economically Disadvantaged,all,562,90.7,67.0,59.7,34.7,ELA + Math proficiency (average),295.0,107.0,122.0,149.0,194.0
+2024-25,elaMath,Students with Disabilities,k12,166,50.0,40.6,35.4,21.4,ELA + Math proficiency (average),60.0,16.0,36.0,31.0,
+2024-25,elaMath,Students with Disabilities,all,437,76.8,57.8,50.0,23.1,ELA + Math proficiency (average),191.0,73.0,124.0,119.0,217.0
+2024-25,grad4,All Students,k12,272,100.0,99.0,98.2,94.3,4-year graduation rate,62.0,36.0,6.0,53.0,17.0
+2024-25,grad4,All Students,all,319,100.0,99.7,99.0,94.6,4-year graduation rate,80.0,52.0,15.0,71.0,30.0
+2024-25,grad4,Economically Disadvantaged,k12,259,100.0,100.0,97.9,91.2,4-year graduation rate,65.0,1.0,20.0,78.0,91.0
+2024-25,grad4,Economically Disadvantaged,all,305,100.0,100.0,100.0,91.8,4-year graduation rate,91.0,1.0,35.0,106.0,121.0
+2024-25,grad4,Students with Disabilities,k12,272,100.0,96.3,95.0,85.0,4-year graduation rate,96.0,129.0,25.0,56.0,22.0
+2024-25,grad4,Students with Disabilities,all,303,100.0,100.0,98.3,85.5,4-year graduation rate,120.0,154.0,42.0,78.0,38.0
+2024-25,math,All Students,k12,223,85.2,76.5,70.0,40.4,Math proficiency,56.0,3.0,9.0,31.0,
+2024-25,math,All Students,all,632,93.1,86.5,81.9,43.4,Math proficiency,165.0,25.0,38.0,100.0,223.0
+2024-25,math,Economically Disadvantaged,k12,217,55.8,48.5,41.7,26.1,Math proficiency,107.0,13.0,44.0,23.0,
+2024-25,math,Economically Disadvantaged,all,563,86.6,60.0,55.0,27.7,Math proficiency,318.0,59.0,128.0,87.0,133.0
+2024-25,math,Students with Disabilities,k12,168,54.0,39.6,32.2,19.5,Math proficiency,72.0,12.0,27.0,25.0,
+2024-25,math,Students with Disabilities,all,449,72.1,58.9,49.6,21.2,Math proficiency,210.0,53.0,106.0,97.0,280.0
+2024-25,math58,All Students,k12,216,82.6,73.8,68.8,37.9,Grades 5-8 Math proficiency,82.0,4.0,9.0,43.0,
+2024-25,math58,All Students,all,571,100.0,84.4,79.3,40.6,Grades 5-8 Math proficiency,225.0,27.0,37.0,118.0,
+2024-25,math58,Economically Disadvantaged,k12,168,57.7,44.1,39.1,23.9,Grades 5-8 Math proficiency,134.0,9.0,32.0,50.0,
+2024-25,math58,Economically Disadvantaged,all,356,63.6,54.5,46.9,25.2,Grades 5-8 Math proficiency,304.0,24.0,73.0,124.0,
+2024-25,math58,Students with Disabilities,k12,144,60.0,35.5,31.6,18.9,Grades 5-8 Math proficiency,71.0,5.0,18.0,43.0,
+2024-25,math58,Students with Disabilities,all,308,77.3,50.0,40.9,20.0,Grades 5-8 Math proficiency,167.0,21.0,46.0,112.0,
+2024-25,msgpEla,All Students,k12,226,73.0,61.0,58.0,49.0,ELA growth (mSGP),20.0,9.0,3.0,95.0,
+2024-25,msgpEla,All Students,all,592,76.0,71.5,69.0,50.5,ELA growth (mSGP),98.0,60.0,31.0,301.0,
+2024-25,msgpEla,Economically Disadvantaged,k12,222,68.0,61.0,58.0,46.0,ELA growth (mSGP),84.0,1.0,33.0,166.0,
+2024-25,msgpEla,Economically Disadvantaged,all,527,81.5,70.5,66.0,47.0,ELA growth (mSGP),248.0,16.0,118.0,402.0,
+2024-25,msgpEla,Students with Disabilities,k12,226,63.0,53.0,51.0,41.0,ELA growth (mSGP),45.0,25.0,13.0,96.0,
+2024-25,msgpEla,Students with Disabilities,all,556,93.0,66.0,61.0,43.0,ELA growth (mSGP),179.0,128.0,88.0,291.0,
+2024-25,msgpMath,All Students,k12,226,70.0,62.0,60.0,49.0,Math growth (mSGP),99.0,1.0,3.0,72.0,
+2024-25,msgpMath,All Students,all,592,86.0,69.5,67.0,50.0,Math growth (mSGP),294.0,8.0,18.0,243.0,
+2024-25,msgpMath,Economically Disadvantaged,k12,222,68.0,60.0,57.5,47.0,Math growth (mSGP),179.0,3.0,23.0,128.0,
+2024-25,msgpMath,Economically Disadvantaged,all,518,79.0,70.0,67.0,48.0,Math growth (mSGP),412.0,22.0,93.0,324.0,
+2024-25,msgpMath,Students with Disabilities,k12,226,72.0,59.0,54.0,43.0,Math growth (mSGP),101.0,8.0,6.0,72.0,
+2024-25,msgpMath,Students with Disabilities,all,543,95.0,68.0,64.0,44.0,Math growth (mSGP),270.0,38.0,34.0,219.0,
+2024-25,satTotal,All Students,k12,269,1391.0,1262.0,1232.0,1084.0,SAT average (Math + Reading & Writing),33.0,6.0,3.0,25.0,37.0
+2024-25,satTotal,All Students,all,314,1391.0,1292.0,1252.0,1074.0,SAT average (Math + Reading & Writing),41.0,9.0,6.0,33.0,45.0
+2024-25,science,All Students,k12,226,72.8,53.3,48.9,23.0,Science proficiency,37.0,29.0,2.0,28.0,
+2024-25,science,All Students,all,641,89.9,67.4,62.9,26.0,Science proficiency,121.0,92.0,19.0,91.0,63.0
+2024-25,science,Economically Disadvantaged,k12,217,54.5,28.8,26.0,13.7,Science proficiency,41.0,30.0,15.0,46.0,
+2024-25,science,Economically Disadvantaged,all,514,82.3,46.2,37.5,13.6,Science proficiency,121.0,99.0,55.0,136.0,83.0
+2024-25,science,Students with Disabilities,k12,223,36.4,23.5,19.3,7.5,Science proficiency,55.0,8.0,21.0,48.0,
+2024-25,science,Students with Disabilities,all,493,86.7,36.4,27.7,9.1,Science proficiency,160.0,36.0,70.0,142.0,186.0

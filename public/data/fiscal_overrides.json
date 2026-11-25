@@ -1,0 +1,12 @@
+{
+  "_instructions": "Enter figures from BRRSD's annual 'User-Friendly Budget' (posted on the district website each spring) or NJDOE's Taxpayers' Guide to Education Spending. Leave a value null if unknown; the dashboard shows only the values you fill in. Dollar amounts are plain numbers (no $ or commas). Key each entry by school year, e.g. '2024-25'.",
+  "districtCode": "35-0555",
+  "source": "BRRSD User-Friendly Budget Summary",
+  "years": {
+    "2018-19": { "totalOperatingBudget": null, "adminCostPerPupil": null, "budgetedCostPerPupil": null, "sourceUrl": null },
+    "2021-22": { "totalOperatingBudget": null, "adminCostPerPupil": null, "budgetedCostPerPupil": null, "sourceUrl": null },
+    "2022-23": { "totalOperatingBudget": null, "adminCostPerPupil": null, "budgetedCostPerPupil": null, "sourceUrl": null },
+    "2023-24": { "totalOperatingBudget": null, "adminCostPerPupil": null, "budgetedCostPerPupil": null, "sourceUrl": null },
+    "2024-25": { "totalOperatingBudget": null, "adminCostPerPupil": null, "budgetedCostPerPupil": null, "sourceUrl": null }
+  }
+}

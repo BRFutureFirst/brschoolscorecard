@@ -1613,6 +1613,10 @@ export default function App() {
           An independent project, not affiliated with or endorsed by the Bridgewater-Raritan Regional School District.
           Every figure comes from New Jersey Department of Education public data.
         </p>
+        <p className="pt-3 border-t text-secondary" style={{ borderColor: 'var(--border)' }}>
+          Developed by Inderpreet Banga. Questions, comments or concerns? Please reach out at{' '}
+          <a className="underline" href="mailto:bridgewaterfuturefirst@gmail.com">bridgewaterfuturefirst@gmail.com</a>.
+        </p>
       </footer>
     </div>
   )

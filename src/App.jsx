@@ -176,6 +176,41 @@ function waiverBand(years) {
 /* ------------------------------------------------------------------------- */
 const SUBJECT_METRIC = { ELA: 'ela', Math: 'math', Science: 'science' }
 
+// Why the site exists and how to read it. Shown at the top of the Overview tab.
+const ABOUT_TABS = [
+  ['achievement', 'Top 20 Goal', 'BRRSD\'s statewide rank on every measure, from state tests to AP, SAT and graduation, and how far it is from the Top 20.'],
+  ['recovery', 'Recovery & Growth', 'How quickly scores have recovered since the pandemic, and how much students grow each year.'],
+  ['schools', 'Schools & Algebra I', 'Every BRRSD school, color-coded against the Top 20 cutoff or the state average.'],
+  ['spending', 'Budget & Spending', 'Where each dollar goes, compared with neighbors, the state and the Top 20 districts.'],
+]
+function About({ topN }) {
+  return (
+    <section className="card p-4 sm:p-5 text-sm leading-relaxed" aria-labelledby="about-heading">
+      <h2 id="about-heading" className="text-base font-semibold">Why this site exists</h2>
+      <p className="mt-1 text-secondary max-w-3xl">
+        Every Bridgewater-Raritan student deserves the best possible education, at every grade and in every school. This site
+        gives residents and parents a clear, easy look at how the district is doing: how it ranks against its neighbors
+        (Bernards, Montgomery, Hillsborough and Watchung Hills), against the state, and against New Jersey's Top {topN} school
+        districts, on both state test results and budgets. The goal is transparency, so the community can focus on what
+        matters most: student outcomes.
+      </p>
+      <div className="mt-3 grid sm:grid-cols-2 lg:grid-cols-4 gap-3">
+        {ABOUT_TABS.map(([id, title, text]) => (
+          <a key={id} href={`#${id}`} className="about-link rounded-lg p-3 block" style={{ background: 'var(--surface-2)' }}>
+            <div className="font-semibold">{title} <span aria-hidden="true" className="text-muted">→</span></div>
+            <div className="text-xs text-secondary mt-0.5">{text}</div>
+          </a>
+        ))}
+      </div>
+      <p className="mt-3 text-xs text-muted max-w-3xl">
+        Every number comes from New Jersey Department of Education public reports: School Performance Reports, the Taxpayers'
+        Guide to Education Spending and User-Friendly Budgets. Nothing is estimated, and suppressed values are left blank. Each
+        chart can be downloaded as CSV. This is an independent project, not affiliated with the school district.
+      </p>
+    </section>
+  )
+}
+
 function Overview({ data }) {
   const [group, setGroup] = useState(ALL)
   const [ref, setRef] = useState('top20')
@@ -206,6 +241,7 @@ function Overview({ data }) {
 
   return (
     <div className="space-y-5">
+      <About topN={topN} />
       <div className="flex flex-wrap gap-4 items-center">
         <Control label="Student group" value={group} onChange={setGroup} options={GROUPS} />
         <Control label="Compare with" value={ref} onChange={setRef}
@@ -1520,8 +1556,9 @@ export default function App() {
               <p className="text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--accent-ink)' }}>Independent civic dashboard · NJDOE 35-0555</p>
               <h1 className="text-2xl sm:text-3xl font-semibold mt-1">Bridgewater-Raritan Schools, by the Numbers</h1>
               <p className="text-sm text-secondary mt-1 max-w-2xl">
-                Test results, growth, attendance, staffing and spending from New Jersey Department of Education reports,
-                measured against neighbors and the state's Top 20 districts. Updated automatically each month.
+                An easy way for Bridgewater-Raritan residents and parents to see how our schools rank against neighboring
+                districts, the state and New Jersey's Top 20 districts, on state test results and budgets. Built from New Jersey
+                Department of Education data and updated automatically each month.
               </p>
             </div>
             {verified && (

@@ -207,3 +207,7 @@ body {
   font-size: 12px;
 }
 .recharts-tooltip-label { color: var(--text-primary); font-weight: 600; }
+
+/* About-panel links: tinted surface with a visible hover/focus state. */
+.about-link { color: inherit; text-decoration: none; border: 1px solid transparent; transition: border-color 0.15s; }
+.about-link:hover, .about-link:focus-visible { border-color: var(--accent-ink); outline: none; }

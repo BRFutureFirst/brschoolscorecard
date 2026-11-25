@@ -192,7 +192,7 @@
       "benchmarks": 580,
       "budget": 45,
       "growth": 832,
-      "highschool": 836,
+      "highschool": 1007,
       "proficiency": 3795,
       "spending": 3064,
       "staffing": 166
@@ -234,7 +234,7 @@
       "NJSLA": "2021-22 to present",
       "PARCC": "2014-15 to 2018-19 (PARCC; renamed NJSLA in 2018-19, same blueprint)"
     },
-    "lastVerifiedAgainstNJDOE": "2026-11-24T12:48:58+00:00",
+    "lastVerifiedAgainstNJDOE": "2026-11-25T06:06:40+00:00",
     "latestYear": "2024-25",
     "notes": [
       "Proficiency = percent of valid test takers who Met or Exceeded Expectations (Level 4+ for ELA/Math, Level 3+ for Science).",
@@ -1177,7 +1177,7 @@
         "contentLength": 5926554,
         "etag": "\"5a6e9a-68c05501\"",
         "lastModified": "Tue, 09 Sep 2025 16:25:37 GMT",
-        "processedAt": "2026-11-24T06:07:23+00:00",
+        "processedAt": "2026-11-25T06:06:46+00:00",
         "url": "https://www.nj.gov/education/spr/download/archive/201415/2015PRDATABASE.xlsx"
       }
     },
@@ -1186,7 +1186,7 @@
         "contentLength": 22043471,
         "etag": "\"1505b4f-68920a57\"",
         "lastModified": "Tue, 05 Aug 2025 13:42:47 GMT",
-        "processedAt": "2026-11-24T06:07:34+00:00",
+        "processedAt": "2026-11-25T06:07:10+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2015-2016/Database_SchoolDetail.xlsx"
       }
     },
@@ -1195,14 +1195,14 @@
         "contentLength": 15745679,
         "etag": "\"f0428f-68920bb1\"",
         "lastModified": "Tue, 05 Aug 2025 13:48:33 GMT",
-        "processedAt": "2026-11-24T12:49:08+00:00",
+        "processedAt": "2026-11-25T06:07:54+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2016-2017/Database_DistrictStateDetail.xlsx"
       },
       "school": {
         "contentLength": 37906694,
         "etag": "\"2426906-68920c1c\"",
         "lastModified": "Tue, 05 Aug 2025 13:50:20 GMT",
-        "processedAt": "2026-11-24T06:07:54+00:00",
+        "processedAt": "2026-11-25T06:07:39+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2016-2017/Database_SchoolDetail.xlsx"
       }
     },
@@ -1211,14 +1211,14 @@
         "contentLength": 19785886,
         "etag": "\"12de89e-68920de6\"",
         "lastModified": "Tue, 05 Aug 2025 13:57:58 GMT",
-        "processedAt": "2026-11-24T12:49:21+00:00",
+        "processedAt": "2026-11-25T06:08:56+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2017-2018/Database_DistrictStateDetail.xlsx"
       },
       "school": {
         "contentLength": 52224606,
         "etag": "\"31ce25e-68920f65\"",
         "lastModified": "Tue, 05 Aug 2025 14:04:21 GMT",
-        "processedAt": "2026-11-24T06:08:33+00:00",
+        "processedAt": "2026-11-25T06:08:37+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2017-2018/Database_SchoolDetail.xlsx"
       }
     },
@@ -1227,14 +1227,14 @@
         "contentLength": 22186494,
         "etag": "\"15289fe-689214a9\"",
         "lastModified": "Tue, 05 Aug 2025 14:26:49 GMT",
-        "processedAt": "2026-11-24T12:49:35+00:00",
+        "processedAt": "2026-11-25T06:10:07+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2018-2019/Database_DistrictStateDetail.xlsx"
       },
       "school": {
         "contentLength": 57916583,
         "etag": "\"373bca7-6892171e\"",
         "lastModified": "Tue, 05 Aug 2025 14:37:18 GMT",
-        "processedAt": "2026-11-24T06:09:16+00:00",
+        "processedAt": "2026-11-25T06:09:45+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2018-2019/Database_SchoolDetail.xlsx"
       }
     },
@@ -1243,14 +1243,14 @@
         "contentLength": 5637107,
         "etag": "\"5603f3-689219d7\"",
         "lastModified": "Tue, 05 Aug 2025 14:48:55 GMT",
-        "processedAt": "2026-11-24T12:49:37+00:00",
+        "processedAt": "2026-11-25T06:10:18+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2019-2020/Database_DistrictStateDetail.xlsx"
       },
       "school": {
         "contentLength": 15314906,
         "etag": "\"e9afda-68921d0a\"",
         "lastModified": "Tue, 05 Aug 2025 15:02:34 GMT",
-        "processedAt": "2026-11-24T06:09:28+00:00",
+        "processedAt": "2026-11-25T06:10:16+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2019-2020/Database_SchoolDetail.xlsx"
       }
     },
@@ -1259,14 +1259,14 @@
         "contentLength": 8522874,
         "etag": "\"820c7a-68921e20\"",
         "lastModified": "Tue, 05 Aug 2025 15:07:12 GMT",
-        "processedAt": "2026-11-24T12:49:40+00:00",
+        "processedAt": "2026-11-25T06:10:30+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2020-2021/Database_DistrictStateDetail.xlsx"
       },
       "school": {
         "contentLength": 23499365,
         "etag": "\"1669265-6892200a\"",
         "lastModified": "Tue, 05 Aug 2025 15:15:22 GMT",
-        "processedAt": "2026-11-24T06:09:36+00:00",
+        "processedAt": "2026-11-25T06:10:26+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2020-2021/Database_SchoolDetail.xlsx"
       }
     },
@@ -1275,14 +1275,14 @@
         "contentLength": 23794959,
         "etag": "\"16b150f-689222fa\"",
         "lastModified": "Tue, 05 Aug 2025 15:27:54 GMT",
-        "processedAt": "2026-11-24T12:49:54+00:00",
+        "processedAt": "2026-11-25T06:11:40+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2021-2022/Database_DistrictStateDetail.xlsx"
       },
       "school": {
         "contentLength": 61050176,
         "etag": "\"3a38d40-68922595\"",
         "lastModified": "Tue, 05 Aug 2025 15:39:01 GMT",
-        "processedAt": "2026-11-24T06:10:09+00:00",
+        "processedAt": "2026-11-25T06:11:18+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2021-2022/Database_SchoolDetail.xlsx"
       }
     },
@@ -1291,14 +1291,14 @@
         "contentLength": 26878567,
         "etag": "\"19a2267-68922aa4\"",
         "lastModified": "Tue, 05 Aug 2025 16:00:36 GMT",
-        "processedAt": "2026-11-24T12:50:09+00:00",
+        "processedAt": "2026-11-25T06:12:58+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2022-2023/Database_DistrictStateDetail.xlsx"
       },
       "school": {
         "contentLength": 68039713,
         "etag": "\"40e3421-68922c5e\"",
         "lastModified": "Tue, 05 Aug 2025 16:07:58 GMT",
-        "processedAt": "2026-11-24T06:10:56+00:00",
+        "processedAt": "2026-11-25T06:12:31+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2022-2023/Database_SchoolDetail.xlsx"
       }
     },
@@ -1307,14 +1307,14 @@
         "contentLength": 30378206,
         "etag": "\"1cf88de-689236c1\"",
         "lastModified": "Tue, 05 Aug 2025 16:52:17 GMT",
-        "processedAt": "2026-11-24T12:50:25+00:00",
+        "processedAt": "2026-11-25T06:14:26+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2023-2024/Database_DistrictStateDetail.xlsx"
       },
       "school": {
         "contentLength": 80666073,
         "etag": "\"4ceddd9-68923815\"",
         "lastModified": "Tue, 05 Aug 2025 16:57:57 GMT",
-        "processedAt": "2026-11-24T06:11:47+00:00",
+        "processedAt": "2026-11-25T06:13:58+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2023-2024/Database_SchoolDetail.xlsx"
       }
     },
@@ -1323,14 +1323,14 @@
         "contentLength": 119164900,
         "etag": "\"71a4fe4-6a0e1dc1\"",
         "lastModified": "Wed, 20 May 2026 20:46:57 GMT",
-        "processedAt": "2026-11-24T12:51:35+00:00",
+        "processedAt": "2026-11-25T06:21:48+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2024-2025/Database_DistrictStateDetail.xlsx"
       },
       "school": {
         "contentLength": 346029712,
         "etag": "\"149ffe90-6a199dfa\"",
         "lastModified": "Fri, 29 May 2026 14:08:58 GMT",
-        "processedAt": "2026-11-24T06:15:30+00:00",
+        "processedAt": "2026-11-25T06:19:41+00:00",
         "url": "https://www.nj.gov/education/sprreports/download/DataFiles/2024-2025/Database_SchoolDetail.xlsx"
       }
     }
@@ -1346,7 +1346,7 @@
         }
       },
       "kind": "zip",
-      "processedAt": "2026-11-24T12:47:21+00:00"
+      "processedAt": "2026-11-25T06:21:50+00:00"
     },
     "2018": {
       "files": {
@@ -1358,7 +1358,7 @@
         }
       },
       "kind": "zip",
-      "processedAt": "2026-11-24T12:47:22+00:00"
+      "processedAt": "2026-11-25T06:21:51+00:00"
     },
     "2019": {
       "files": {
@@ -1370,7 +1370,7 @@
         }
       },
       "kind": "zip",
-      "processedAt": "2026-11-24T12:47:23+00:00"
+      "processedAt": "2026-11-25T06:21:52+00:00"
     },
     "2020": {
       "files": {
@@ -1382,7 +1382,7 @@
         }
       },
       "kind": "zip",
-      "processedAt": "2026-11-24T12:47:24+00:00"
+      "processedAt": "2026-11-25T06:21:53+00:00"
     },
     "2021": {
       "files": {
@@ -1394,7 +1394,7 @@
         }
       },
       "kind": "zip",
-      "processedAt": "2026-11-24T12:47:25+00:00"
+      "processedAt": "2026-11-25T06:21:53+00:00"
     },
     "2022": {
       "files": {
@@ -1406,7 +1406,7 @@
         }
       },
       "kind": "zip",
-      "processedAt": "2026-11-24T12:47:26+00:00"
+      "processedAt": "2026-11-25T06:21:54+00:00"
     },
     "2023": {
       "files": {
@@ -1418,7 +1418,7 @@
         }
       },
       "kind": "zip",
-      "processedAt": "2026-11-24T12:47:26+00:00"
+      "processedAt": "2026-11-25T06:21:55+00:00"
     },
     "2024": {
       "files": {
@@ -1550,7 +1550,7 @@
         }
       },
       "kind": "xlsx",
-      "processedAt": "2026-11-24T12:47:30+00:00"
+      "processedAt": "2026-11-25T06:21:58+00:00"
     },
     "2025": {
       "files": {
@@ -1682,7 +1682,7 @@
         }
       },
       "kind": "xlsx",
-      "processedAt": "2026-11-24T12:47:34+00:00"
+      "processedAt": "2026-11-25T06:22:01+00:00"
     }
   },
   "budgetSources": {
@@ -1720,7 +1720,7 @@
         }
       },
       "page": "https://www.nj.gov/education/budget/ufb/2021/index.shtml",
-      "processedAt": "2026-11-24T12:22:19+00:00"
+      "processedAt": "2026-11-25T06:22:03+00:00"
     },
     "2022": {
       "files": {
@@ -1756,7 +1756,7 @@
         }
       },
       "page": "https://www.nj.gov/education/budget/ufb/2122/index.shtml",
-      "processedAt": "2026-11-24T12:22:22+00:00"
+      "processedAt": "2026-11-25T06:22:05+00:00"
     },
     "2023": {
       "files": {
@@ -1792,7 +1792,7 @@
         }
       },
       "page": "https://www.nj.gov/education/budget/ufb/2223/index.shtml",
-      "processedAt": "2026-11-24T12:22:29+00:00"
+      "processedAt": "2026-11-25T06:22:08+00:00"
     },
     "2024": {
       "files": {
@@ -1828,7 +1828,7 @@
         }
       },
       "page": "https://www.nj.gov/education/budget/ufb/2324/index.shtml",
-      "processedAt": "2026-11-24T12:22:32+00:00"
+      "processedAt": "2026-11-25T06:22:09+00:00"
     },
     "2025": {
       "files": {
@@ -1864,7 +1864,7 @@
         }
       },
       "page": "https://www.nj.gov/education/budget/ufb/2425/index.shtml",
-      "processedAt": "2026-11-24T12:22:38+00:00"
+      "processedAt": "2026-11-25T06:22:10+00:00"
     },
     "2026": {
       "files": {
@@ -1900,7 +1900,7 @@
         }
       },
       "page": "https://www.nj.gov/education/budget/ufb/2526/index.shtml",
-      "processedAt": "2026-11-24T12:22:42+00:00"
+      "processedAt": "2026-11-25T06:22:11+00:00"
     },
     "2027": {
       "files": {
@@ -1936,7 +1936,7 @@
         }
       },
       "page": "https://www.nj.gov/education/budget/ufb/2627/index.shtml",
-      "processedAt": "2026-11-24T12:22:44+00:00"
+      "processedAt": "2026-11-25T06:22:12+00:00"
     }
   },
   "proficiency": [
@@ -7120,6 +7120,10 @@
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad5", "source": "2016-17:GraduationRateTrends", "value": 97.0, "year": "2014-15"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad5", "source": "2016-17:GraduationRates", "value": 81.1, "year": "2014-15"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad5", "source": "2016-17:GraduationRates", "value": 93.7, "year": "2014-15"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2016-17:GraduationRateTrends", "value": 95.4, "year": "2014-15"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2016-17:GraduationRateTrends", "value": 97.0, "year": "2014-15"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2016-17:GraduationRates", "value": 81.1, "year": "2014-15"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2016-17:GraduationRates", "value": 93.7, "year": "2014-15"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "grad4", "source": "2016-17:GraduationRateTrends", "value": 94.5, "year": "2014-15"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "grad5", "source": "2016-17:GraduationRateTrends", "value": 95.6, "year": "2014-15"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad5", "source": "2016-17:GraduationRates", "value": 96.0, "year": "2014-15"},
@@ -7141,6 +7145,13 @@
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad5", "source": "2018-19:GraduatonRateTrendsProgress", "stateValue": 91.8, "value": 95.6, "year": "2015-16"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad5", "source": "2017-18:GraduationRates", "value": 89.2, "year": "2015-16"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad5", "source": "2017-18:GraduationRates", "value": 87.4, "year": "2015-16"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2016-17:GraduationRateTrends", "value": 94.9, "year": "2015-16"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2016-17:GraduationRates", "value": 89.2, "year": "2015-16"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2016-17:GraduationRates", "value": 86.0, "year": "2015-16"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2018-19:GraduatonRateTrendsProgress", "stateValue": 91.8, "value": 95.6, "year": "2015-16"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2017-18:GraduationRates", "value": 89.2, "year": "2015-16"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2017-18:GraduationRates", "value": 87.4, "year": "2015-16"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2015-16:PSATSATACTParticipation", "stateValue": 58.0, "value": 62.2, "year": "2015-16"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "grad4", "source": "2016-17:GraduationRateTrends", "value": 96.7, "year": "2015-16"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad4", "source": "2016-17:GraduationRates", "value": 86.3, "year": "2015-16"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad4", "source": "2016-17:GraduationRates", "value": 84.9, "year": "2015-16"},
@@ -7188,6 +7199,21 @@
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satMathBench", "source": "2016-17:PSAT-SAT-ACTPerformance", "stateValue": 58.0, "value": 80.0, "year": "2016-17"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satParticipation", "source": "2016-17:PSAT-SAT-ACTParticipation", "stateValue": 70.0, "value": 100.0, "year": "2016-17"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satTotal", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1103.0, "value": 1202.0, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "apCourse", "schoolCode": "005", "source": "2016-17:APIBCourseworkPartPerf", "stateValue": 41.5, "value": 50.1, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "apExam", "schoolCode": "005", "source": "2016-17:APIBCourseworkPartPerf", "stateValue": 34.5, "value": 40.3, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "apScore3", "schoolCode": "005", "source": "2016-17:APIBCourseworkPartPerf", "stateValue": 24.3, "value": 37.6, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2016-17:GraduationRateTrends", "value": 95.0, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2017-18:GraduationRates", "value": 82.2, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2017-18:GraduationRates", "value": 85.6, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2019-20:GraduatonRateTrendsProgress", "stateValue": 92.4, "value": 97.0, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2018-19:GraduationRates", "value": 91.4, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2018-19:GraduationRates", "value": 90.6, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satEbrw", "schoolCode": "005", "source": "2016-17:PSAT-SAT-ACTPerformance", "stateValue": 551.0, "value": 595.0, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satEbrwBench", "schoolCode": "005", "source": "2016-17:PSAT-SAT-ACTPerformance", "stateValue": 77.0, "value": 90.0, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satMath", "schoolCode": "005", "source": "2016-17:PSAT-SAT-ACTPerformance", "stateValue": 552.0, "value": 607.0, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satMathBench", "schoolCode": "005", "source": "2016-17:PSAT-SAT-ACTPerformance", "stateValue": 58.0, "value": 80.0, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2016-17:PSAT-SAT-ACTParticipation", "stateValue": 70.0, "value": 100.0, "year": "2016-17"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satTotal", "schoolCode": "005", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1103.0, "value": 1202.0, "year": "2016-17"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "apCourse", "source": "2016-17:APIBCourseworkPartPerf", "stateValue": 41.5, "value": 50.5, "year": "2016-17"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "apExam", "source": "2016-17:APIBCourseworkPartPerf", "stateValue": 34.5, "value": 38.2, "year": "2016-17"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "apScore3", "source": "2016-17:APIBCourseworkPartPerf", "stateValue": 24.3, "value": 34.3, "year": "2016-17"},
@@ -7266,6 +7292,22 @@
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satMathBench", "source": "2017-18:PSAT-SAT-ACTPerformance", "stateValue": 54.0, "value": 85.0, "year": "2017-18"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satParticipation", "source": "2017-18:PSAT-SAT-ACTParticipation", "stateValue": 72.2, "value": 81.8, "year": "2017-18"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satTotal", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1085.0, "value": 1237.0, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "apCourse", "schoolCode": "005", "source": "2017-18:APIBCourseworkPartPerf", "stateValue": 34.9, "value": 43.9, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "apExam", "schoolCode": "005", "source": "2017-18:APIBCourseworkPartPerf", "stateValue": 28.3, "value": 40.2, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "apScore3", "schoolCode": "005", "source": "2017-18:APIBCourseworkPartPerf", "stateValue": 20.5, "value": 37.0, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "dualEnroll", "schoolCode": "005", "source": "2017-18:APIBCourseworkPartPerf", "stateValue": 13.3, "value": 0.0, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2019-20:GraduatonRateTrendsProgress", "stateValue": 90.9, "value": 94.6, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2018-19:GraduationRates", "value": 82.1, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2018-19:GraduationRates", "value": 84.4, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2020-21:GraduatonRateTrendsProgress", "stateValue": 92.5, "value": 95.8, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2018-19:GraduationRates", "stateValue": 87.3, "value": 90.8, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2018-19:GraduationRates", "stateValue": 83.8, "value": 87.6, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satEbrw", "schoolCode": "005", "source": "2017-18:PSAT-SAT-ACTPerformance", "stateValue": 542.0, "value": 607.0, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satEbrwBench", "schoolCode": "005", "source": "2017-18:PSAT-SAT-ACTPerformance", "stateValue": 72.0, "value": 92.0, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satMath", "schoolCode": "005", "source": "2017-18:PSAT-SAT-ACTPerformance", "stateValue": 543.0, "value": 630.0, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satMathBench", "schoolCode": "005", "source": "2017-18:PSAT-SAT-ACTPerformance", "stateValue": 54.0, "value": 85.0, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2017-18:PSAT-SAT-ACTParticipation", "stateValue": 72.2, "value": 81.8, "year": "2017-18"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satTotal", "schoolCode": "005", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1085.0, "value": 1237.0, "year": "2017-18"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "apCourse", "source": "2017-18:APIBCourseworkPartPerf", "stateValue": 34.9, "value": 49.2, "year": "2017-18"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "apExam", "source": "2017-18:APIBCourseworkPartPerf", "stateValue": 28.3, "value": 34.4, "year": "2017-18"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "apScore3", "source": "2017-18:APIBCourseworkPartPerf", "stateValue": 20.5, "value": 31.2, "year": "2017-18"},
@@ -7342,6 +7384,22 @@
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satMathBench", "source": "2018-19:PSAT-SAT-ACTPerformance", "stateValue": 53.0, "value": 78.0, "year": "2018-19"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satParticipation", "source": "2018-19:PSAT-SAT-ACTParticipation", "stateValue": 72.1, "value": 83.1, "year": "2018-19"},
     {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satTotal", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1080.0, "value": 1216.0, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "apCourse", "schoolCode": "005", "source": "2018-19:APIBCourseworkPartPerf", "stateValue": 35.2, "value": 44.4, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "apExam", "schoolCode": "005", "source": "2018-19:APIBCourseworkPartPerf", "stateValue": 29.0, "value": 40.4, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "apScore3", "schoolCode": "005", "source": "2018-19:APIBCourseworkPartPerf", "stateValue": 20.7, "value": 37.0, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "dualEnroll", "schoolCode": "005", "source": "2018-19:APIBCourseworkPartPerf", "stateValue": 19.0, "value": 0.0, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2018-19:GraduatonRateTrendsProgress", "stateValue": 90.6, "value": 94.8, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2018-19:GraduationRates", "stateValue": 84.0, "value": 80.6, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2018-19:GraduationRates", "stateValue": 79.2, "value": 80.5, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2021-22:GraduatonRateTrendsProgress", "stateValue": 92.2, "value": 96.2, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2019-20:5YrGraduationCohortProfile", "stateValue": 86.6, "value": 88.9, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2019-20:5YrGraduationCohortProfile", "stateValue": 83.2, "value": 85.7, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satEbrw", "schoolCode": "005", "source": "2018-19:PSAT-SAT-ACTPerformance", "stateValue": 539.0, "value": 600.0, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satEbrwBench", "schoolCode": "005", "source": "2018-19:PSAT-SAT-ACTPerformance", "stateValue": 70.0, "value": 90.0, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satMath", "schoolCode": "005", "source": "2018-19:PSAT-SAT-ACTPerformance", "stateValue": 541.0, "value": 616.0, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satMathBench", "schoolCode": "005", "source": "2018-19:PSAT-SAT-ACTPerformance", "stateValue": 53.0, "value": 78.0, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2018-19:PSAT-SAT-ACTParticipation", "stateValue": 72.1, "value": 83.1, "year": "2018-19"},
+    {"districtCode": "35-0555", "era": "PARCC", "group": "All Students", "metric": "satTotal", "schoolCode": "005", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1080.0, "value": 1216.0, "year": "2018-19"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "apCourse", "source": "2018-19:APIBCourseworkPartPerf", "stateValue": 35.2, "value": 49.2, "year": "2018-19"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "apExam", "source": "2018-19:APIBCourseworkPartPerf", "stateValue": 29.0, "value": 38.2, "year": "2018-19"},
     {"districtCode": "35-2170", "era": "PARCC", "group": "All Students", "metric": "apScore3", "source": "2018-19:APIBCourseworkPartPerf", "stateValue": 20.7, "value": 34.5, "year": "2018-19"},
@@ -7420,6 +7478,22 @@
     {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satMathBench", "source": "2019-20:PSAT-SAT-ACTPerformance", "stateValue": 52.0, "value": 80.0, "year": "2019-20"},
     {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satParticipation", "source": "2019-20:PSAT-SAT-ACTParticipation", "stateValue": 71.1, "value": 77.1, "year": "2019-20"},
     {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satTotal", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1072.0, "value": 1229.0, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "apCourse", "schoolCode": "005", "source": "2019-20:APIBCourseworkPartPerf", "stateValue": 35.7, "value": 44.2, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "apExam", "schoolCode": "005", "source": "2019-20:APIBCourseworkPartPerf", "stateValue": 28.9, "value": 38.7, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "apScore3", "schoolCode": "005", "source": "2019-20:APIBCourseworkPartPerf", "stateValue": 22.8, "value": 35.9, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "dualEnroll", "schoolCode": "005", "source": "2019-20:APIBCourseworkPartPerf", "stateValue": 20.2, "value": 0.0, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2019-20:GraduatonRateTrendsProgress", "stateValue": 91.0, "value": 95.1, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2019-20:4YrGraduationCohortProfile", "stateValue": 85.0, "value": 84.8, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2019-20:4YrGraduationCohortProfile", "stateValue": 80.4, "value": 83.6, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 92.6, "value": 96.5, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 87.9, "value": 90.8, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 83.6, "value": 86.3, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satEbrw", "schoolCode": "005", "source": "2019-20:PSAT-SAT-ACTPerformance", "stateValue": 536.0, "value": 605.0, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satEbrwBench", "schoolCode": "005", "source": "2019-20:PSAT-SAT-ACTPerformance", "stateValue": 69.0, "value": 89.0, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satMath", "schoolCode": "005", "source": "2019-20:PSAT-SAT-ACTPerformance", "stateValue": 536.0, "value": 624.0, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satMathBench", "schoolCode": "005", "source": "2019-20:PSAT-SAT-ACTPerformance", "stateValue": 52.0, "value": 80.0, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2019-20:PSAT-SAT-ACTParticipation", "stateValue": 71.1, "value": 77.1, "year": "2019-20"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satTotal", "schoolCode": "005", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1072.0, "value": 1229.0, "year": "2019-20"},
     {"districtCode": "35-2170", "era": "COVID_WAIVER", "group": "All Students", "metric": "apCourse", "source": "2019-20:APIBCourseworkPartPerf", "stateValue": 35.7, "value": 52.1, "year": "2019-20"},
     {"districtCode": "35-2170", "era": "COVID_WAIVER", "group": "All Students", "metric": "apExam", "source": "2019-20:APIBCourseworkPartPerf", "stateValue": 28.9, "value": 41.7, "year": "2019-20"},
     {"districtCode": "35-2170", "era": "COVID_WAIVER", "group": "All Students", "metric": "apScore3", "source": "2019-20:APIBCourseworkPartPerf", "stateValue": 22.8, "value": 38.8, "year": "2019-20"},
@@ -7507,6 +7581,26 @@
     {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satMathBench", "source": "2020-21:PSAT-SAT-ACTPerformance", "stateValue": 60.0, "value": 84.0, "year": "2020-21"},
     {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satParticipation", "source": "2020-21:PSAT-SAT-ACTParticipation", "stateValue": 45.4, "value": 60.7, "year": "2020-21"},
     {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satTotal", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1117.0, "value": 1258.0, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "apCourse", "schoolCode": "005", "source": "2020-21:APIBCourseworkPartPerf", "stateValue": 35.7, "value": 46.5, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Economically Disadvantaged", "metric": "apCourse", "schoolCode": "005", "source": "2020-21:APIBDualEnrPartByStudentGrp", "stateValue": 22.4, "value": 19.4, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Students with Disabilities", "metric": "apCourse", "schoolCode": "005", "source": "2020-21:APIBDualEnrPartByStudentGrp", "stateValue": 4.6, "value": 3.1, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "apExam", "schoolCode": "005", "source": "2020-21:APIBCourseworkPartPerf", "stateValue": 27.2, "value": 37.1, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "apScore3", "schoolCode": "005", "source": "2020-21:APIBCourseworkPartPerf", "stateValue": 17.9, "value": 31.5, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "dualEnroll", "schoolCode": "005", "source": "2020-21:APIBCourseworkPartPerf", "stateValue": 22.3, "value": 3.3, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Economically Disadvantaged", "metric": "dualEnroll", "schoolCode": "005", "source": "2020-21:APIBDualEnrPartByStudentGrp", "stateValue": 14.3, "value": 1.2, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Students with Disabilities", "metric": "dualEnroll", "schoolCode": "005", "source": "2020-21:APIBDualEnrPartByStudentGrp", "stateValue": 7.9, "value": 0.4, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2020-21:GraduatonRateTrendsProgress", "stateValue": 90.6, "value": 92.5, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 84.8, "value": 77.7, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 79.0, "value": 74.6, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 92.5, "value": 95.1, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 87.6, "value": 87.2, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 83.5, "value": 83.9, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satEbrw", "schoolCode": "005", "source": "2020-21:PSAT-SAT-ACTPerformance", "stateValue": 557.0, "value": 619.0, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satEbrwBench", "schoolCode": "005", "source": "2020-21:PSAT-SAT-ACTPerformance", "stateValue": 76.0, "value": 92.0, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satMath", "schoolCode": "005", "source": "2020-21:PSAT-SAT-ACTPerformance", "stateValue": 560.0, "value": 639.0, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satMathBench", "schoolCode": "005", "source": "2020-21:PSAT-SAT-ACTPerformance", "stateValue": 60.0, "value": 84.0, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2020-21:PSAT-SAT-ACTParticipation", "stateValue": 45.4, "value": 60.7, "year": "2020-21"},
+    {"districtCode": "35-0555", "era": "COVID_WAIVER", "group": "All Students", "metric": "satTotal", "schoolCode": "005", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1117.0, "value": 1258.0, "year": "2020-21"},
     {"districtCode": "35-2170", "era": "COVID_WAIVER", "group": "All Students", "metric": "apCourse", "source": "2020-21:APIBCourseworkPartPerf", "stateValue": 35.7, "value": 55.1, "year": "2020-21"},
     {"districtCode": "35-2170", "era": "COVID_WAIVER", "group": "Economically Disadvantaged", "metric": "apCourse", "source": "2020-21:APIBDualEnrPartByStudentGrp", "stateValue": 22.4, "value": 22.6, "year": "2020-21"},
     {"districtCode": "35-2170", "era": "COVID_WAIVER", "group": "Students with Disabilities", "metric": "apCourse", "source": "2020-21:APIBDualEnrPartByStudentGrp", "stateValue": 4.6, "value": 7.4, "year": "2020-21"},
@@ -7605,6 +7699,26 @@
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMathBench", "source": "2021-22:PSAT-SAT-ACTPerformance", "stateValue": 49.0, "value": 72.0, "year": "2021-22"},
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satParticipation", "source": "2021-22:PSAT-SAT-ACTParticipation", "stateValue": 60.8, "value": 71.7, "year": "2021-22"},
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satTotal", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1070.0, "value": 1210.0, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apCourse", "schoolCode": "005", "source": "2021-22:APIBCourseworkPartPerf", "stateValue": 34.5, "value": 46.1, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "apCourse", "schoolCode": "005", "source": "2021-22:APIBDualEnrPartByStudentGrp", "stateValue": 21.9, "value": 14.4, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "apCourse", "schoolCode": "005", "source": "2021-22:APIBDualEnrPartByStudentGrp", "stateValue": 4.3, "value": 3.7, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apExam", "schoolCode": "005", "source": "2021-22:APIBCourseworkPartPerf", "stateValue": 28.4, "value": 38.3, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apScore3", "schoolCode": "005", "source": "2021-22:APIBCourseworkPartPerf", "stateValue": 19.9, "value": 33.9, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "dualEnroll", "schoolCode": "005", "source": "2021-22:APIBCourseworkPartPerf", "stateValue": 24.4, "value": 2.6, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "dualEnroll", "schoolCode": "005", "source": "2021-22:APIBDualEnrPartByStudentGrp", "stateValue": 16.9, "value": 0.0, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "dualEnroll", "schoolCode": "005", "source": "2021-22:APIBDualEnrPartByStudentGrp", "stateValue": 8.9, "value": 0.9, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2021-22:GraduatonRateTrendsProgress", "stateValue": 90.9, "value": 92.7, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 85.4, "value": 79.8, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 80.5, "value": 78.4, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 92.7, "value": 94.2, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 88.3, "value": 85.0, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 84.6, "value": 81.6, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satEbrw", "schoolCode": "005", "source": "2021-22:PSAT-SAT-ACTPerformance", "stateValue": 538.0, "value": 602.0, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satEbrwBench", "schoolCode": "005", "source": "2021-22:PSAT-SAT-ACTPerformance", "stateValue": 68.0, "value": 88.0, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMath", "schoolCode": "005", "source": "2021-22:PSAT-SAT-ACTPerformance", "stateValue": 532.0, "value": 608.0, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMathBench", "schoolCode": "005", "source": "2021-22:PSAT-SAT-ACTPerformance", "stateValue": 49.0, "value": 72.0, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2021-22:PSAT-SAT-ACTParticipation", "stateValue": 60.8, "value": 71.7, "year": "2021-22"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satTotal", "schoolCode": "005", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1070.0, "value": 1210.0, "year": "2021-22"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "All Students", "metric": "apCourse", "source": "2021-22:APIBCourseworkPartPerf", "stateValue": 34.5, "value": 52.6, "year": "2021-22"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "apCourse", "source": "2021-22:APIBDualEnrPartByStudentGrp", "stateValue": 21.9, "value": 20.2, "year": "2021-22"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "Students with Disabilities", "metric": "apCourse", "source": "2021-22:APIBDualEnrPartByStudentGrp", "stateValue": 4.3, "value": 2.7, "year": "2021-22"},
@@ -7705,6 +7819,26 @@
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMathBench", "source": "2022-23:PSAT-SAT-ACTPerformance", "stateValue": 48.0, "value": 76.0, "year": "2022-23"},
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satParticipation", "source": "2022-23:PSAT-SAT-ACTParticipation", "stateValue": 61.9, "value": 73.9, "year": "2022-23"},
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satTotal", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1058.0, "value": 1230.0, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apCourse", "schoolCode": "005", "source": "2022-23:APIBCourseworkPartPerf", "stateValue": 34.9, "value": 51.0, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "apCourse", "schoolCode": "005", "source": "2022-23:APIBDualEnrPartByStudentGrp", "stateValue": 21.6, "value": 20.6, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "apCourse", "schoolCode": "005", "source": "2022-23:APIBDualEnrPartByStudentGrp", "stateValue": 4.6, "value": 4.7, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apExam", "schoolCode": "005", "source": "2022-23:APIBCourseworkPartPerf", "stateValue": 29.7, "value": 44.5, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apScore3", "schoolCode": "005", "source": "2022-23:APIBCourseworkPartPerf", "stateValue": 21.3, "value": 40.9, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "dualEnroll", "schoolCode": "005", "source": "2022-23:APIBCourseworkPartPerf", "stateValue": 24.0, "value": 1.2, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "dualEnroll", "schoolCode": "005", "source": "2022-23:APIBDualEnrPartByStudentGrp", "stateValue": 17.2, "value": 1.6, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "dualEnroll", "schoolCode": "005", "source": "2022-23:APIBDualEnrPartByStudentGrp", "stateValue": 9.0, "value": 0.5, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2022-23:GraduatonRateTrendsProgress", "stateValue": 91.1, "value": 93.8, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 86.6, "value": 84.8, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 80.5, "value": 71.4, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 92.6, "value": 96.4, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 88.8, "value": 91.3, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 84.1, "value": 83.6, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satEbrw", "schoolCode": "005", "source": "2022-23:PSAT-SAT-ACTPerformance", "stateValue": 533.0, "value": 611.0, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satEbrwBench", "schoolCode": "005", "source": "2022-23:PSAT-SAT-ACTPerformance", "stateValue": 67.0, "value": 90.0, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMath", "schoolCode": "005", "source": "2022-23:PSAT-SAT-ACTPerformance", "stateValue": 525.0, "value": 619.0, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMathBench", "schoolCode": "005", "source": "2022-23:PSAT-SAT-ACTPerformance", "stateValue": 48.0, "value": 76.0, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2022-23:PSAT-SAT-ACTParticipation", "stateValue": 61.9, "value": 73.9, "year": "2022-23"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satTotal", "schoolCode": "005", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1058.0, "value": 1230.0, "year": "2022-23"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "All Students", "metric": "apCourse", "source": "2022-23:APIBCourseworkPartPerf", "stateValue": 34.9, "value": 53.7, "year": "2022-23"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "apCourse", "source": "2022-23:APIBDualEnrPartByStudentGrp", "stateValue": 21.6, "value": 32.0, "year": "2022-23"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "Students with Disabilities", "metric": "apCourse", "source": "2022-23:APIBDualEnrPartByStudentGrp", "stateValue": 4.6, "value": 8.1, "year": "2022-23"},
@@ -7803,6 +7937,26 @@
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMathBench", "source": "2023-24:PSAT-SAT-ACTPerformance", "stateValue": 46.0, "value": 75.0, "year": "2023-24"},
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satParticipation", "source": "2023-24:PSAT-SAT-ACTParticipation", "stateValue": 62.7, "value": 71.8, "year": "2023-24"},
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satTotal", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1049.0, "value": 1225.0, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apCourse", "schoolCode": "005", "source": "2023-24:APIBCourseworkPartPerf", "stateValue": 35.9, "value": 47.4, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "apCourse", "schoolCode": "005", "source": "2023-24:APIBDualEnrPartByStudentGrp", "stateValue": 22.8, "value": 15.4, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "apCourse", "schoolCode": "005", "source": "2023-24:APIBDualEnrPartByStudentGrp", "stateValue": 4.8, "value": 3.3, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apExam", "schoolCode": "005", "source": "2023-24:APIBCourseworkPartPerf", "stateValue": 30.8, "value": 40.1, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apScore3", "schoolCode": "005", "source": "2023-24:APIBCourseworkPartPerf", "stateValue": 23.0, "value": 37.0, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "dualEnroll", "schoolCode": "005", "source": "2023-24:APIBCourseworkPartPerf", "stateValue": 26.9, "value": 2.3, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "dualEnroll", "schoolCode": "005", "source": "2023-24:APIBDualEnrPartByStudentGrp", "stateValue": 20.2, "value": 1.3, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "dualEnroll", "schoolCode": "005", "source": "2023-24:APIBDualEnrPartByStudentGrp", "stateValue": 10.9, "value": 0.8, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2023-24:GraduationRateTrendsProgress", "stateValue": 91.3, "value": 96.9, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 87.1, "value": 90.7, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 80.7, "value": 87.9, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 92.9, "value": 97.9, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 89.5, "value": 94.4, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "grad5", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 84.5, "value": 90.7, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satEbrw", "schoolCode": "005", "source": "2023-24:PSAT-SAT-ACTPerformance", "stateValue": 530.0, "value": 612.0, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satEbrwBench", "schoolCode": "005", "source": "2023-24:PSAT-SAT-ACTPerformance", "stateValue": 65.0, "value": 91.0, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMath", "schoolCode": "005", "source": "2023-24:PSAT-SAT-ACTPerformance", "stateValue": 519.0, "value": 613.0, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMathBench", "schoolCode": "005", "source": "2023-24:PSAT-SAT-ACTPerformance", "stateValue": 46.0, "value": 75.0, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2023-24:PSAT-SAT-ACTParticipation", "stateValue": 62.7, "value": 71.8, "year": "2023-24"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satTotal", "schoolCode": "005", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1049.0, "value": 1225.0, "year": "2023-24"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "All Students", "metric": "apCourse", "source": "2023-24:APIBCourseworkPartPerf", "stateValue": 35.9, "value": 55.0, "year": "2023-24"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "apCourse", "source": "2023-24:APIBDualEnrPartByStudentGrp", "stateValue": 22.8, "value": 23.6, "year": "2023-24"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "Students with Disabilities", "metric": "apCourse", "source": "2023-24:APIBDualEnrPartByStudentGrp", "stateValue": 4.8, "value": 4.0, "year": "2023-24"},
@@ -7897,6 +8051,23 @@
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMathBench", "source": "2024-25:PSATSATACT_Benchmark", "stateValue": 46.0, "value": 73.0, "year": "2024-25"},
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satParticipation", "source": "2024-25:PSATSATACT_Participation", "stateValue": 60.0, "value": 69.2, "year": "2024-25"},
     {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satTotal", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1052.0, "value": 1202.0, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apCourse", "schoolCode": "005", "source": "2024-25:AP_IB_Dual_PartStudentGroup", "stateValue": 37.5, "value": 51.3, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "apCourse", "schoolCode": "005", "source": "2024-25:AP_IB_Dual_PartStudentGroup", "stateValue": 24.6, "value": 20.3, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "apCourse", "schoolCode": "005", "source": "2024-25:AP_IB_Dual_PartStudentGroup", "stateValue": 5.9, "value": 4.0, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apExam", "schoolCode": "005", "source": "2024-25:AP_IB_Dual_Participation", "stateValue": 0.32, "value": 0.426, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "apScore3", "schoolCode": "005", "source": "2024-25:AP_IB_Dual_Participation", "stateValue": 0.255, "value": 0.402, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "dualEnroll", "schoolCode": "005", "source": "2024-25:AP_IB_Dual_PartStudentGroup", "stateValue": 30.0, "value": 8.9, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "dualEnroll", "schoolCode": "005", "source": "2024-25:AP_IB_Dual_PartStudentGroup", "stateValue": 23.0, "value": 0.9, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "dualEnroll", "schoolCode": "005", "source": "2024-25:AP_IB_Dual_PartStudentGroup", "stateValue": 12.7, "value": 0.0, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 91.8, "value": 96.9, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 88.9, "value": 94.5, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "Students with Disabilities", "metric": "grad4", "schoolCode": "005", "source": "2024-25:GraduationRateTrends", "stateValue": 82.4, "value": 88.4, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satEbrw", "schoolCode": "005", "source": "2024-25:PSATSATACT_AverageScore", "stateValue": 533.0, "value": 602.0, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satEbrwBench", "schoolCode": "005", "source": "2024-25:PSATSATACT_Benchmark", "stateValue": 69.0, "value": 89.0, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMath", "schoolCode": "005", "source": "2024-25:PSATSATACT_AverageScore", "stateValue": 519.0, "value": 600.0, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satMathBench", "schoolCode": "005", "source": "2024-25:PSATSATACT_Benchmark", "stateValue": 46.0, "value": 73.0, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satParticipation", "schoolCode": "005", "source": "2024-25:PSATSATACT_Participation", "stateValue": 60.0, "value": 69.2, "year": "2024-25"},
+    {"districtCode": "35-0555", "era": "NJSLA", "group": "All Students", "metric": "satTotal", "schoolCode": "005", "source": "derived: SAT Math + Reading & Writing averages", "stateValue": 1052.0, "value": 1202.0, "year": "2024-25"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "All Students", "metric": "apCourse", "source": "2024-25:AP_IB_Dual_PartStudentGroup", "stateValue": 37.5, "value": 52.7, "year": "2024-25"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "Economically Disadvantaged", "metric": "apCourse", "source": "2024-25:AP_IB_Dual_PartStudentGroup", "stateValue": 24.6, "value": 24.5, "year": "2024-25"},
     {"districtCode": "35-2170", "era": "NJSLA", "group": "Students with Disabilities", "metric": "apCourse", "source": "2024-25:AP_IB_Dual_PartStudentGroup", "stateValue": 5.9, "value": 9.4, "year": "2024-25"},
